@@ -10,12 +10,12 @@ This project involves using parallel programming technologies like Hadoop MapRed
 			+ Agora
 			+ Blackbank
 			+ Evolution
-			+ SilkRoad 2
-	+ Site live-status (DNStats, 130million rows)
+			+ SilkRoad 1
+	+ Site live-status (DNStats, 13 million rows)
 		+ Survival Analysis
 			+ Site uptime(%) with time
 			+ Site live status with time
-	+ Item analysis (Grams - 1900 files)
+	+ Item analysis (Grams - 2860 files)
 		+ Items in market with time
 		+ Item in demand
 	+ Profile Analysis
@@ -28,14 +28,14 @@ This project involves using parallel programming technologies like Hadoop MapRed
 		+ Most discussed topic
 
 ###Steps
-+ This will charge your AWS instance, so don't keep it running. STOP it avoid incurring any charges. Refer https://aws.amazon.com/ec2/pricing/on-demand/ for pricing.
++ This will charge your AWS instance, so don't keep it running. STOP it to avoid incurring any charges. Refer https://aws.amazon.com/ec2/pricing/on-demand/ for pricing.
 + Create instance with ubuntu 14.04 on AWS. Configuration:
 	+ Instance Type: General Purpose, m4.xlarge(or m4.2xlarge/m4.4x.large);
 	+ Storage: at least 200GiB 
 + Download all the tar files in your instance as assigned below:
 	+ Alma: Agora
 	+ Nikhil: Blackbank
-	+ Evolution: Venkatesh
+	+ Venkatesh: Evolution
 	+ Krutarth: Silk Road2 
 + To download, 
 	+ visit: https://archive.org/download/dnmarchives
@@ -48,7 +48,6 @@ This project involves using parallel programming technologies like Hadoop MapRed
 	+ tar -xvf <your-.tar-file>
 + Additional work (if interested)
 	+ Try to understand the data and see if it can be correlated to any of the above mentioned features.
-
 
 
 ###Credits: https://www.gwern.net/Black-market%20archives
