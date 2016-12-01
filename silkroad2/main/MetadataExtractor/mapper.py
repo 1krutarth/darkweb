@@ -22,7 +22,7 @@ for line in sys.stdin:
 
 	_id = blen - ( blen%4 if blen%4 else 4 )
 	imgtxt = b64img[:_id].decode( 'base64' )
-	fname = 'tmp/img2save-' + str(randint(0,1000)) +'.jpg'
+	fname = 'img2save-' + str(randint(0,1000)) +'.jpg'
 	# fname = 'img2save.jpg'
 	with open( fname, 'wb' ) as f:
 		f.write( imgtxt )
