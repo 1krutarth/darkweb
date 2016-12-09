@@ -16,7 +16,7 @@ Grams contains information crawled/API fetched from multiple markets.
 * Market popularity - number of products in market with time
 * Vendor popularity - number of products sold by a particular vendor in a market and across all markets
 * Product-vendor popularity - number of vendors having product with time
-* variation of product price over time ( mean, quartiles )
+* variation of product price over time ( mean, quantiles )
 * variation of mean product price over market with time ( 3 dim on 2d graph )
 * variation of product price for a vendor over time
 * locations (and count) of operations (based on ship_from data)
@@ -49,4 +49,7 @@ Grams contains information crawled/API fetched from multiple markets.
 * `q1.pig`: Market Popularity with time (daily/monthly/yearly)
 * `q2.pig`: Vendor Popularity
 * `q3.pig`: Product-vendor popularity with time (monthly)
-* `q5.pig`: Price Variation - product price variation over time
+* `q5.pig`: Price Variation - product price variation over time (daily/monthly/yearly) (mean, quantiles)
+* `q6.pig`: Price Variation by Vendors (gives little insight into product in demand)
+* `q7.pig`: Operations frequency
+
