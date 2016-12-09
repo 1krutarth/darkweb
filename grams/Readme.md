@@ -49,3 +49,4 @@ Grams contains information crawled/API fetched from multiple markets.
 * `q1.pig`: Market Popularity with time (daily/monthly/yearly)
 * `q2.pig`: Vendor Popularity
 * `q3.pig`: Product-vendor popularity with time (monthly)
+* `q5.pig`: Price Variation - product price variation over time
