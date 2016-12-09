@@ -19,9 +19,8 @@ Following are the set of queries that can done to dataset
 	* type of connection with the site based on download speed and total time
 
 Files:
-
-	* `q1.pig`: Count up and down frequency of sites for every year
-	* `q2.pig`: Count up and down frequency of sites for every month
-	* `q3.pig: Count up and down frequency of sites for every day
+	* q1.pig: Count up and down frequency of sites for every year
+	* q2.pig: Count up and down frequency of sites for every month
+	* q3.pig: Count up and down frequency of sites for every day
 	* q1 and q2 will be used to calculate site-live percentage
 	* q3 will be used to plot site live percentage on a daily basis
