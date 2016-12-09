@@ -1,6 +1,7 @@
 This DNStats file has information regarding the live status of multiple dark net markets.
 
-We have following information attributes:
+###We have following information attributes:
+
 	1. sitename
 	2. rid - sitename id
 	2. type of market
@@ -14,11 +15,13 @@ We have following information attributes:
 	6. total time for downloading something at above speed
 	7. timestamp
 
-Following are the set of queries that can done to dataset
+###Following are the set of queries that can done to dataset
+
 	* plot site-live percentage status for every hour/month/year 
 	* type of connection with the site based on download speed and total time
 
-Files:
+###Files:
+
 	* q1.pig: Count up and down frequency of sites for every year
 	* q2.pig: Count up and down frequency of sites for every month
 	* q3.pig: Count up and down frequency of sites for every day
