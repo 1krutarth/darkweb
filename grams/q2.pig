@@ -1,6 +1,8 @@
 grams = LOAD 'data/1776.csv' USING PigStorage(',') AS (hash:chararray, market:chararray, itemlink:chararray, vendor:chararray, price:float, product:chararray, description:chararray, image:chararray, timestamp:chararray, ship_from:chararray );
 
-a1 = FOREACH grams GENERATE REPLACE(market, '"', '') AS (market:chararray), REPLACE(vendor,'"','') AS (vendor:chararray);
+g1 = FILTER grams BY NOT( hash MATCHES '.*hash.*' );
+
+a1 = FOREACH g1 GENERATE REPLACE(market, '"', '') AS (market:chararray), REPLACE(vendor,'"','') AS (vendor:chararray);
 
 -- remove market from b1 and b2 if you want results across all markets
 b1 = GROUP a1 BY (vendor,market);
