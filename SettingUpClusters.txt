@@ -1,0 +1,9 @@
+wget http://mirror.symnds.com/software/Apache/pig/pig-0.15.0/pig-0.15.0.tar.gz
+tar xvzf pig-0.15.0.tar.gz
+mv pig-0.15.0 pig
+
+nano ~/.bashrc
+export PATH=$PATH:/home/ubuntu/pig/bin
+. ~/.bashrc
+
+pig -version

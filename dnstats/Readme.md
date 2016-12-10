@@ -1,5 +1,14 @@
 This DNStats file has information regarding the live status of multiple dark net markets.
 
+###How to get data
+* For sample run, you can use `data` folder
+* For complete run, you can run following steps
+	* wget https://archive.org/download/dnmarchives/dnstats-20150712.sql.xz
+	* wget https://archive.org/download/dnmarchives/dnstats-20151109.sql.xz
+	* `unxz` and untar it to get data in `.sql` format. You might want to convert this data into `.csv` format using R.
+	* After you get `.csv` files, store them in a single folder.
+	* Update path of directory in `q1.pig`, `q2.pig`, and `q3.pig`.
+
 ###We have following information attributes:
 1. sitename
 2. rid - sitename id
@@ -24,3 +33,4 @@ This DNStats file has information regarding the live status of multiple dark net
 * `q3.pig`: Count up and down frequency of sites for every day
 * q1 and q2 will be used to calculate site-live percentage
 * q3 will be used to plot site live percentage on a daily basis
+
