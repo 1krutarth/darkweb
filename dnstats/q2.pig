@@ -1,8 +1,10 @@
-dnsdata = LOAD '/home/krutarth/Documents/study/darkweb/dnstats/data/sample.csv' USING PigStorage(',') as ( id:long, sitename:chararray, rid:int, type:int, siteup:int, httpcode:int, speed:long, tot_time:float, timestamp:chararray );
+dnsdata = LOAD '/home/krutarth/Documents/study/darkweb/dnstats/data/sample.csv' USING PigStorage(',') as ( id:long, sitename:chararray, rid:chararray, type:chararray, siteup:chararray, httpcode:chararray, speed:chararray, tot_time:chararray, timestamp:chararray );
 
-dns = FOREACH dnsdata GENERATE sitename, httpcode, ToDate( timestamp, 'yyyy-MM-dd HH:mm:ss' ) as (timestamp:Datetime);
+d1 = FOREACH dnsdata GENERATE REPLACE(sitename,'"','') AS sitename, REPLACE(httpcode,'"','') AS httpcode, REPLACE(timestamp,'"','') AS timestamp;
 
-s3 = FOREACH dns GENERATE sitename, httpcode, GetMonth(timestamp) as (month:int), GetYear( timestamp ) as (year:int);
+dns = FOREACH d1 GENERATE sitename, httpcode, ToDate( timestamp, 'yyyy-MM-dd HH:mm:ss' ) as (timestamp:Datetime);
+
+s3 = FOREACH dns GENERATE sitename, (int)httpcode AS (httpcode:int), GetMonth(timestamp) as (month:int), GetYear( timestamp ) as (year:int);
 s3_200 = FILTER s3 BY httpcode == 200;
 s3_x200 = FILTER s3 BY httpcode != 200;
 
