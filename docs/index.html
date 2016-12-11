@@ -5,22 +5,43 @@
   <title>Darkweb Analytics</title>
   <meta charset="utf-8">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.1.4/Chart.min.js"></script>
+  <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"></script>
+  <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <style>
   	.container {
 		  width: 90%;
 		  margin: 15px auto;
 		}
+		hr{
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
   </style>
 </head>
 <body>
-Cloud Computing
+<h1 align="center">Cloud Computing</h1><hr>
 <div class="container">
+
 	<h2>DNStats</h2>
 	<h4>2014 and 2015 Site Live Percentage (yearly)</h4>
-	<div>
-		<canvas id="myChart"></canvas>
+	
+	<div class="panel-body">
+	
+		<canvas id="myChart" height="300px" width="600px"></canvas>
 	</div>
 </div>
+<!-- <div class="panel panel-primary">
+	<div class="panel-heading">
+		<h2>DNStats</h2>
+	<h4>2014 and 2015 Site Live Percentage (yearly)</h4>
+	</div>
+	<div class="panel-body">
+		<canvas id="myChart" height="300px" width="600px"></canvas>
+	</div>
+</div> -->
+
+
   <script>
   	var ctx = document.getElementById('myChart');
 		var myChart = new Chart(ctx, {
@@ -28,24 +49,25 @@ Cloud Computing
 		  data: {
 		    labels: ['Crypto Market', 'Tor Bazaar', 'KISS', 'Instamix', 'DHL Forums', 'Hydra', 'Anonymous Trade', 'RuTor', 'Haven Forum', 'Black Market', 'PHARMAPHIL', 'Sunshinemart', 'The Hub', 'TheRealDeal', 'Bloomsfield', 'Haven', 'Evolution', 'Havana', 'Russian SR', '1776 Marketplace', 'SwissShop', 'Silkkitien', 'Middle Earth Marketplace', 'French Marketplace', 'LONDON UNDERGROUND', 'Cannabis Road', 'AdMagz', 'All Market Vendor directory', 'Silk Road 2 Forum', 'Torepublic Market'],
 		    datasets: [{
-		      label: '2014 Live Percentage',
+		    label: '2014 Live Percentage',
+		   
 		      data: [, 94.072, 0, 99.81, 0, 98.892, 99.684, 0, 0, 98.351, 0, 0, 92.817, 0, 0, 0, 97.13, 0, 0, 87.492, 99.797, 96.718, 98.845, 99.37, 0, 92.193, 53.18 ],
-		      backgroundColor: "rgba(153,255,51,0.6)"
+		      backgroundColor: "rgb(0,0,255)"
 		    }, {
 		      label: '2015 Live Percentage',
 		      data: [96.941, 0, 88.5402, 17.628, 96.631, 88.8888, 97.8466, 98.697, 18.0855, 0, 99.2032, 79.2012, 92.5741, 86.774, 99.0827, 58.7066, 94.5156, 45.62, 99.1419, 0, 84.1043, 95.6847, 92.8334, 80.1559, 98.1727, 0, 0, 0, 77.7777, 85.9766 ],
-		      backgroundColor: "rgba(255,153,0,0.6)"
+		      backgroundColor: "rgb(63, 191, 127)"
 		    }]
 		  }
 		});
   </script>
 
-
+<hr>
   <div class="container">
 	<h2>DNStats</h2>
 	<h4>2014 and 2015 Site Live Percentage (yearly)</h4>
 	<div>
-		<canvas id="myChart1"></canvas>
+		<canvas id="myChart1" height="300px" width="600px"></canvas>
 	</div>
 </div>
   <script>
@@ -57,22 +79,22 @@ Cloud Computing
 		    datasets: [{
 		      label: '2014 Live Percentage',
 		      data: [84.907, 97.586, 91.958, 97.592, 0, 99.873, 65.501, 51.629, 99.63, 43.674, 97.439, 0, 95.153, 0, 90.958, 0, 95.939, 0, 0, 0, 0, 0, 0, 99.18, 99.586, 99.659, 83.802, 99.542, 98.077, 0, 0, 0, 0, 98.687, 99.497, 87.328, 99.663, 89.654, 0, 97.472, 93.635, 0, 0, 0, 00, 84.01, 99.781, 94.548, 0, 0, 99.349, 0, 0, 99.855, 98.49, 8.8363, 95.349, 70.453, 96.757, 1.321, 0, 0, 0, 99.881, ],
-		      backgroundColor: "rgba(153,255,51,0.6)"
+		      backgroundColor: "rgb(0,0,255)"
 		    }, {
 		      label: '2015 Live Percentage',
 		      data: [, 93.8809, 77.4882, 53.942, 98.7706, 95.42, 0, 0, 99.1426, 0, 97.0941, 98.4323, 0, 81.2368, 46.7333, 98.7677, 96.8863, 82.454, 99.0486, 98.7678, 96.2962, 98.6909, 35.7335, 61.91, 50.8477, 99.0949, 68.8121, 99.4304, 96.4689, 80.5342, 98.8803, 87.81, 71.5048, 87.0182, 95.703, 0, 84.6995, 0, 58.4076, 99.219, 0, 84.255, 71.2557, 33.6531, 25.8783, , 99.5616, , 95.2947, 61.534, 55.5555, 86.0967, 30.3072, 93.7703, 98.6, 0, 0, 0, 0, 0, 91.77, 99.0324, 99.2542, 53.0148, 68.5148],
-		      backgroundColor: "rgba(255,153,0,0.6)"
+		      backgroundColor: "rgb(63, 191, 127)"
 		    }]
 		  }
 		});
   </script>
 
-
+<hr>
     <div class="container">
 	<h2>DNStats</h2>
 	<h4>Site Live Percentage (Monthly)</h4>
 	<div>
-		<canvas id="myChart2"></canvas>
+		<canvas id="myChart2" height="300px" width="600px"></canvas>
 	</div>
 </div>
   <script>
@@ -85,48 +107,48 @@ Cloud Computing
 		      label: 'Agora',
 		      fill: false,
 		      data: [0,0,0,93.23, 91.38, 86.62, 74.25, 71.35, 78.62, 94.31, 89.88, 84.20,85.64, 84.91, 68.05, 63.93, 54.82, 97.70, 98.43, 82.98, 19.32,0,0,0],
-		      backgroundColor: "rgba(153,255,51,0.6)"
+		      backgroundColor: "rgb(0,0,255)"
 		    }, {
 		      label: 'Helix',
 		      fill: false,
 		      data: [0,0,0,0,0,97.72, 99.71, 99.82, 99.51, 99.73, 99.89, 99.78,97.46, 99.65, 98.96, 99.5, 99.57, 99.65, 99.30, 99.49, 98.32, 99.42, 99.26,0],
-		      backgroundColor: "rgba(255,153,0,0.6)"
+		      backgroundColor: "rgb(63, 191, 127)"
 		    }, {
 		      label: 'Abraxas',
 		      fill: false,
 		      data: [0,0,0,0,0,0,0,0,0,0,0,99.50,99.65, 99.00, 96.31, 99.08, 91.04, 98.11, 99.48, 99.23, 98.26, 98.14, 50.47,0],
-		      backgroundColor: "rgba(255,153,51,0.6)"
+		      backgroundColor: "rgb(240, 29, 29)"
 		    }, {
 		      label: 'Alphabay',
 		      fill: false,
 		      data: [0,0,0,0,0,0,0,0,0,0,0,0,99.35, 99.05, 92.93, 99.36, 92.18, 99.25, 96.66, 92.59, 97.75, 98.82, 94.61,0],
-		      backgroundColor: "rgba(255,200,0,0.6)"
+		      backgroundColor: "rgb(240, 237, 29)"
 		    }, {
 		      label: 'BlackBank',
 		      fill: false,
 		      data: [0,0,0,99.57, 99.50, 99.31, 99.38, 99.01, 98.86, 97.64, 96.94, 98.60,98.37, 99.18, 96.69, 98.66, 45.76,0,0,0,0,0,0,0],
-		      backgroundColor: "rgba(255,200,51,0.6)"
+		      backgroundColor: "rgb(232, 151, 12)"
 		    }, {
 		      label: 'BitBlender',
 		      fill: false,
 		      data: [0,0,0,0,99.79, 95.05, 99.70, 99.41, 98.70, 93.69, 97.91, 97.13, 99.59, 99.10, 98.60, 99.66, 99.37, 99.40, 99.28, 98.90, 97.97, 99.76, 99.21,0],
-		      backgroundColor: "rgba(255,153,0,0.6)"
+		      backgroundColor: "rgb(232, 12, 93)"
 		    }, {
 		      label: 'Ramp(Russian Anonymous Place)',
 		      fill: false,
 		      data: [0,0,0,0,99.71, 99.7, 98.19, 99.73, 99.38, 99., 99.20, 98.44, 97.09, 97.76, 90.96, 96.00, 73.72, 68.75,0,0,0,0,0,0],
-		      backgroundColor: "rgba(255,153,0,0.6)"
+		      backgroundColor: "rgb(38, 2, 15)"
 		    }]
 		  }
 		});
   </script>
 
-
+<hr>
   <div class="container">
 	<h2>DNStats</h2>
 	<h4>Site Live Percentage (Daily)</h4>
 	<div>
-		<canvas id="myChart3"></canvas>
+		<canvas id="myChart3" height="300px" width="600px"></canvas>
 	</div>
 </div>
   <script>
@@ -138,18 +160,25 @@ Cloud Computing
 		    datasets: [{
 		      label: 'Agora',
 		      data: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 82.14, 0, 98.95, 0, 97.91, 0, 79.16, 77.89,96.875, 97.91, 84.375, 0, 94.79, 95.83, 78.12, 88.29, 80, 90.625, 81.72, 0, 98.95, 98.95, 92.70, 63.58, 89.0625, 76.30, 91.40625, 95.83, 95.03, 75.26, 98.17, 98.95, 98.17, 96.35, 93.21, 95.3125, 96.35, 95.57, 97.13,94.51, 96.85, 86.12, 85.90, 93.47, 97.65625, 59.375, 96.86, 82.03125, 72.91, 71.61, 84.375, 89.35, 92.1875, 98.17, 89.32, 80.78, 83.07, 86.19, 72.39, 90.10, 94.79, 85.71, 78.38, 82.84, 87.86, 88.80, 96.09375, 95.05, 85.9375,77.60, 79.42, 80.46, 80.98, 93.75, 92.42, 79.6, 73.17, 71.81, 81.25, 85.76, 93.75, 92.70, 79.51, 79.43, 82.29, 75.34, 87.15, 92.36, 88.19, 66.31, 69.79, 57.63, 72.56, 67.01, 72.56, 80.20, 47.22, 0, 17.70, 64.23,75.69, 76.04, 77.58, 68, 64.93, 64.23, 67.70, 73.95, 81.59, 78.125, 70.83, 74.30, 72.22, 73.61, 82.98, 75.69, 78.125, 66.66, 40.27, 68.75, 73.26, 72.56, 79.86, 78.47, 53.47, 58.68, 71.875, 82.98, 76.73, 79.16,72.22, 67.01, 68.75, 62.15, 71.18, 76.38, 75.69, 72.91, 65.27, 63.88, 60.76, 62.84, 81.59, 72.22, 52.08, 59.375, 59.375, 57.29, 81.25, 98.95, 98.61, 0, 95.83, 96.875, 98.61, 96.875, 98.61, 94.44, 99.30, 98.26,97.22, 98.61, 98.26, 98.26, 50.34, 94.21, 91.66, 91.66, 96.875, 99.30, 98.95, 98.95, 98.25, 97.91, 98.59, 98.95, 52.43, 97.56, 99.65, 99.67, 92.95, 95.81, 98.61, 96.21, 0, 92.33, 98.31, 99.65, 93.75, 99.69, 99.30, 99.31, 97.91, 98.95, 97.56, 91.66, 92.36, 91.31, 92.70, 86.45, 89.58, 88.58, 85.41, 87.5, 81.59, 92.36, 90.97, 94.44, 85.41, 89.58, 91.31, 89.93, 88.88, 82.29, 86.80, 87.45, 89.93, 88.19, 87.84, 90.27, 79.86, 88.19, 90.27, 86.80, 84.72, 86.80, 85.76, 87.84, 82.63, 83.33, 40.625, 84.375, 85.71, 90.68, 89.198606271777, 90.31, 89.00, 91.84, 89.93, 86.11, 90.27, 43.75, 86.80, 88.88, 90.625, 91.31, 90.97, 88.69, 92.11, 81.59, 59.72, 92.01, 0, 91.66, 87.54, 92.01, 82.29, 88.54, 82.29, 87.5, 91.66, 93.05, 60.20, 4.166, 89.93, 81.25, 91.60, 77.43, 88.54, 92.01, 92.70, 90.97, 91.31, 90, 90.27, 90.31, 92.01, 90.27, 89.93, 92.01, 89.93, 92.70, 90.97, 93.40, 84.375, 83.66, 81.94, 71.875, 5.902, 93.05, 92.70, 94.79, 88.88, 86.45, 87.5, 95.12, 94.80, 83.33, 82.98, 92.36, 95.48, 44.98, 98.61, 91.66, 85.06, 93.05, 90.625, 96.52, 94.79, 92.01, 81.59, 86.11, 90.625, 90.27, 57.98, 97.56, 97.90, 70.27, 93.23, 98.61, 78.74, 98.95, 92.01, 98.95, 98.26, 87.15, 75.78, 90.625, 61.78, 56.59, 86.45, 90.97, 94.44, 74.30, 0, 1.041, 18.53, 39.23, 3.719, 1.486, 6.048, 25.19, 68.71, 91.02, 71.33, 7.986, 35.76, 82.29, 68.75, 79.51, 90.27, 98.95, 96.18, 96.87, 89.23, 61.45, 0, 0, 0, 0, 55.90, 48.26, 93.75, 79.16, 86.80, 78.125, 96.875, 92.70, 79.16, 67.36, 67.01, 52.43, 74.30, 53.81, 98.26, 94.44, 84.72, 94.09, 98.26, 65.625, 58.33, 84.375, 27.08, 66.66, 57.29, 63.54, 51.38, 72.91, 63.54, 18.05, 18.40, 64.58, 52.08, 5.555, 3.460, 0, 0, 17.01, 14.93, 52.43, 92.70, 48.26, 95.83, 94.09, 96.18, 97.56, 96.52, 97.56, 98.95, 99.65, 99.65, 98.95, 98.26, 83.68, 99.30, 98.61, 99.30, 97.91, 99.30, 98.61, 98.95, 99.65, 99.30, 99.65, 95.13, 90.27, 97.22, 99.65, 98.26, 0, 0, 98.94, 0, 98.61, 98.61, 97.56, 98.95, 98.95, 99.30, 97.22, 99.65, 97.22, 0, 99.30, 99.65, 97.22, 97.91, 98.95, 99.30, 99.65, 99.30, 0, 98.61, 98.61, 0, 98.61, 98.95, 0, 98.61, 89.93, 95.83, 94.79, 97.91, 99.65, 98.95, 99.65, 96.875, 96.18, 92.01, 97.91, 97.91, 97.56, 96.875, 95.13, 95.13, 95.13, 97.91, 40.27, 79.86, 97.22, 96.18, 94.79, 95.13, 41.31, 93.40, 92.01, 89.93, 87.5, 13.88, 88.88, 68.40, 62.84, 57.29, 66.31, 50, 99.30, 0, 62.15, 99.65, 98.95, 98.95, 20.48],
-		      backgroundColor: "rgba(153,255,51,0.6)"
+		      backgroundColor: "rgb(191, 63, 63)"
 		    }]
+		  },
+		  options:{
+		  	scales:{
+		  		xAxes:[{
+		  			display:false
+		  		}]
+		  	}
 		  }
 		});
   </script>
 
-
+<hr>
   <div class="container">
 	<h2>Grams</h2>
 	<h4>Variation in products in markets (near-daily)</h4>
 	<div>
-		<canvas id="myChart4"></canvas>
+		<canvas id="myChart4" height="300px" width="600px"></canvas>
 	</div>
 </div>
   <script>
@@ -166,12 +195,12 @@ Cloud Computing
 		  }
 		});
   </script>
-
+<hr>
     <div class="container">
 	<h2>Grams</h2>
 	<h4>Number of Vendors in markets</h4>
 	<div>
-		<canvas id="myChart5"></canvas>
+		<canvas id="myChart5" height="300px" width="600px"></canvas>
 	</div>
 </div>
   <script>
@@ -182,19 +211,20 @@ Cloud Computing
 		    labels: ["Alphabay", "Valhalla", "Haven", "Agora", "Hansa Market", "Pandora", "Nucleus", "Dream", "Evolution", "Oxygen ", "Alpaca", "Cloud Nine", "Onion Market", "Abraxas", "Oasis ", "Middle Earth", "Silkkitie", "Outlaw", "Andromeda", "1776", "Bungee54"],
 		    datasets: [{
 		      label: 'Number of vendors in market',
+
 		      data: [4348, 914, 67, 3174, 464, 427, 2491, 1275, 3640, 661, 186 , 1133, 417, 1424, 206, 731, 487, 148, 249, 21, 1],
-		      backgroundColor: "rgba(153,255,51,0.6)"
+		      backgroundColor: "rgb(63, 63, 191)"
 		    }]
 		  }
 		});
   </script>
 
-
+<hr>
   <div class="container">
-	<h2>DNStats</h2>
+	<h2>Grams</h2>
 	<h4>Top 15 Alphabay vendors and number of products offered in market</h4>
 	<div>
-		<canvas id="myChart6"></canvas>
+		<canvas id="myChart6" height="300px" width="600px"></canvas>
 	</div>
 </div>
   <script>
@@ -206,11 +236,21 @@ Cloud Computing
 		    datasets: [{
 		      label: 'products',
 		      data: [83439, 64809, 64748, 58928, 51072, 49326, 44800, 38533, 38495, 35587, 26430, 26125, 23691, 22572, 22074],
-		      backgroundColor: "rgba(153,255,51,0.6)"
+		      backgroundColor: "rgb(63, 63, 191)"
 		    }]
 		  }
 		});
   </script>
+<hr>
+  <div class="container">
+	<h2>Grams</h2>
+	<h4>Top 15 countries supplying products</h4>
+</div>
+<iframe src="https://krutarth.silk.co/s/embed/EQJ0L2Q" width="800" height="800" style="height:800px;width:800px;border:0;margin-left:250px"></iframe>
+<div style='margin-left:250px;position:relative;margin-top:-33px;margin-bottom:10px;font-size:14px;color:gray;text-align:left;width:50%;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;'>Data from <a target='_blank' style='text-decoration:none;'href='http://krutarth.silk.co'>krutarth.silk.co</a>
+</div>
+
+<hr>
 
 </body>
 </html>
