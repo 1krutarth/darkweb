@@ -2,3 +2,4 @@ dataset/
 metadata-extractor/metadata-extractor-2.9.1/
 metadata-extractor/metadata-extractor-2.9.1.zip
 hadoopec2cluster.pem
+grams/q6_mr.txt

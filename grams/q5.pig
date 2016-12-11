@@ -18,9 +18,13 @@ grp1 = GROUP g5 BY (day,month,year,product);
 
 mean1 = FOREACH grp1 GENERATE FLATTEN(group) AS (day,month,year,product), AVG($1.price) AS (mean:float);
 
+STORE mean1 INTO 'q5_mean' USING PigStorage(',');
+
 order1 = FOREACH grp1 { sorted = ORDER g5 BY price; GENERATE group, sorted; }
 quantile1 = FOREACH order1 GENERATE FLATTEN(group) AS (day,month,year,product), Quantile( $1.price );
 quantile2 = FOREACH quantile1 GENERATE day, month, year, product, $4.quantile_0_0 AS q0, $4.quantile_0_5 AS q1, $4.quantile_0_75 AS q2,  $4.quantile_1_0 AS q3;
+
+STORE quantile2 INTO 'q5_quantile' USING PigStorage(',');
 
 mres1 = JOIN mean1 BY (day,month,year,product), quantile2 BY (day,month,year,product);
 mres2 = FOREACH mres1 GENERATE mean1::day AS day, mean1::month AS month, mean1::year AS year, mean1::product AS product, mean1::mean AS mean, quantile2::q0 AS q0, quantile2::q1 AS q1, quantile2::q2 AS q2, quantile2::q3 AS q3;

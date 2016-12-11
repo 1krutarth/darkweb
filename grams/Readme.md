@@ -1,5 +1,5 @@
 Grams contains information crawled/API fetched from multiple markets. 
-
+"hash","market_name","item_link","vendor_name","price","name","description","image_link","add_time","ship_from",
 ###Information attributes:
 * hash
 * market name
@@ -52,4 +52,3 @@ Grams contains information crawled/API fetched from multiple markets.
 * `q5.pig`: Price Variation - product price variation over time (daily/monthly/yearly) (mean, quantiles)
 * `q6.pig`: Price Variation by Vendors (gives little insight into product in demand)
 * `q7.pig`: Operations frequency
-

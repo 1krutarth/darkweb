@@ -1,0 +1,1277 @@
+agora,usa,1169360
+agora,bulgaria,68
+agora,maldives,39
+agora,united arab emirates,7
+dream,poland,218
+oasis ,digital listing,50966
+outlaw,ukraine,48
+outlaw,united states,9170
+abraxas,u,34
+abraxas,chile,6
+abraxas,qatar,8
+abraxas,england,504
+abraxas,venezuela,75
+abraxas,new zealand,89
+abraxas,cayman islands,6
+abraxas,europe (5-12 days),259
+abraxas,saint vincent and th,8
+nucleus,finland,105
+oxygen ,somewhere,43090
+oxygen ,azerbaijan,60
+oxygen ,united arab emirates,69
+pandora,finland,83
+alphabay,gabon,21
+alphabay,sudan,122
+alphabay,belize,1854
+alphabay,thailand,7159
+alphabay,azerbaijan,88
+alphabay,switzerland,10394
+alphabay,burma (myanmar),46
+alphabay,antigua and barbuda,472
+valhalla,finland,162278
+valhalla,iceland,56
+andromeda,me,62
+andromeda,here,1737
+andromeda,colombia,2
+andromeda,australia,1770
+andromeda,netherlands,2361
+evolution,norway,8261
+evolution,hungary,832
+evolution,uruguay,51
+evolution,united kingdom,241387
+silkkitie,belarus,39
+cloud nine,israel,64
+silk road 2,israel,50
+silk road 2,russia (russian fed.),22
+hansa market,australia,5325
+middle earth,europe,31303
+onion market,poland,10
+onion market,unnited kingdom,10
+onion market,the neteherlands,10
+onion market,worldwide except uk,6
+the pirate market,tor,82
+the pirate market,deutschland,74
+the pirate market,my computer,52
+the pirate market,not specified,58
+the pirate market,united states,477
+tochka free market,worldwide,54132
+agora,me,1235
+agora,jamaica,6
+agora,colombia,195
+agora,australia,361981
+agora,netherlands,362019
+dream,ukraine,123
+dream,united states,24108
+alpaca,canada,789
+abraxas,nl,54
+abraxas,yk,60
+abraxas,fiji,16
+abraxas,africa,5
+abraxas,slovakia,68
+abraxas,luxembourg,28
+abraxas,belgium germany,168
+abraxas,royal mail 1st class,2
+nucleus,ukraine,138
+oxygen ,bermuda,29
+oxygen ,jamaica,37
+oxygen ,colombia,66
+oxygen ,australia,9899
+oxygen ,netherlands,18154
+pandora,united states,37742
+pandora,worldwide except usa,60
+alphabay,sweden,5946
+alphabay,jamaica,1216
+alphabay,somalia,28
+alphabay,colombia,17028
+alphabay,singapore,1626
+alphabay,netherlands,305667
+valhalla,ukraine,527
+valhalla,united states,247697
+andromeda,moon,93
+andromeda,usa ,6
+andromeda,pakistan,100
+andromeda,andromeda,1214
+andromeda,worldwide,2711
+andromeda,scandinavia,158
+andromeda,massachusetts usa,79
+andromeda,massachusetts  usa,79
+andromeda, usa uk and philippi,63
+evolution,india,18805
+evolution,italy,17157
+evolution,france,37846
+evolution,russia,18
+silkkitie,austria,772
+silkkitie,lithuania,64
+cloud nine,austria,158
+cloud nine,ecuador,128
+cloud nine,new zealand,882
+silk road 2,austria,594
+silk road 2,slovenia,752
+silk road 2,lithuania,38
+hansa market,worldwide,275933
+middle earth,usa,9136
+onion market,united states,8232
+onion market,worldwide except usa,10
+real deal market,world-wide,139803
+real deal market,click to see,5103
+the pirate market,ee,4
+the pirate market,nz,24
+the pirate market,australia,485
+the pirate market,california,50
+the pirate market,nuclear warhead test,14
+tochka free market,denmark,640
+agora,usa ,213
+agora,greece,64
+agora,estonia,127
+agora,pakistan,3170
+agora,usa & uk,280
+agora,guatemala,177
+agora,worldwide,988
+agora,scandinavia,57
+agora,the netherlands &amp; germany,19
+alpaca,germany,878
+alpaca,unspecified,7699
+oasis ,northern america,101
+abraxas,usa,5261
+abraxas,belize,87
+abraxas,norge uk,3
+abraxas,thailand,167
+abraxas,netherland,32
+abraxas,switzerland,637
+abraxas,belgium/germany,128
+nucleus,australia,5106
+nucleus,unknown or invalid region,22
+oxygen ,laos,86
+oxygen ,estonia,47
+pandora,usa and canada,3099
+alphabay,cuba,3486
+alphabay,laos,882
+alphabay,monaco,149
+alphabay,romania,695
+valhalla,viet nam,1321
+valhalla,indonesia,115
+andromeda,us,1682
+andromeda,world,133
+andromeda,canada,13189
+andromeda,united kingdom ,23
+evolution,nepal,5
+evolution,brazil,1936
+evolution,taiwan,26
+silkkitie,hungary,390
+silkkitie,united kingdom,9865
+cloud nine,norway,803
+cloud nine,hungary,1190
+cloud nine,united kingdom,20805
+silk road 2,norway,3982
+silk road 2,hungary,1235
+silk road 2,united kingdom,81875
+hansa market,canada,4384
+hansa market,denmark,85
+middle earth,australia,17677
+middle earth,netherlands,77948
+onion market,london,6
+onion market,ssssss,10
+onion market,usa and canada,713
+onion market,united  kingdom,10
+the pirate market,us cali,31
+the pirate market,germany ,78
+the pirate market,worldwide,126
+tochka free market,germany,36733
+agora,us,10
+agora,japan,77
+agora,world,138297
+agora,canada,248763
+agora,serbia,117
+oasis ,india,880
+oasis ,italy,265
+abraxas,0 ,480
+abraxas,me,168
+abraxas,sweden,2239
+abraxas,2   eur,135
+abraxas,colombia,2215
+abraxas,onionland,1
+abraxas,singapore,181
+abraxas,netherlands,61639
+abraxas,torland / usa,1
+abraxas,us domestic only,24
+nucleus,pakistan,1421
+nucleus,worldwide,27710
+oxygen ,canada,7762
+oxygen ,serbia,46
+oxygen ,georgia,44
+pandora,worldwide,70628
+alphabay,japan,8916
+alphabay,yemen,35
+alphabay,cyprus,1
+alphabay,poland,26493
+alphabay,cameroon,116
+alphabay,djibouti,12
+alphabay,wor.on1ay,1
+alphabay,trinidad and tobago,135
+andromeda,useast,50
+andromeda,germany,5539
+evolution,spain,18567
+evolution,mexico,1279
+evolution,philippines,1561
+evolution,south africa,5470
+evolution,czech republic,11850
+silkkitie,india,972
+silkkitie,italy,5837
+silkkitie,russia,68
+silkkitie,switzerland,924
+cloud nine,oman,11
+cloud nine,india,61
+cloud nine,italy,429
+cloud nine,france,2048
+silk road 2,india,49816
+silk road 2,italy,1302
+silk road 2,france,1592
+silk road 2,undeclared,134089
+silk road 2,central america,4
+hansa market,china,66
+hansa market,belgium,2334
+hansa market,ireland,48
+middle earth,pakistan,1814
+middle earth,worldwide,45464
+onion market,chn,351
+onion market,fra,50
+onion market,austria,4
+onion market,germany ,12
+the pirate market,uk,2629
+the pirate market,asia,56
+the pirate market,canada,2173
+the pirate market,gernany,7
+agora,aruba,8
+agora,latvia,381
+agora,croatia,128
+agora,germany,304985
+agora,seychelles,217
+agora,christmas island,112
+dream,asia,233
+dream,denmark,156
+dream,hungary,12
+outlaw,china,70
+outlaw,france,2711
+outlaw,belgium,1767
+outlaw,ireland,440
+abraxas,pm,178
+abraxas,u.s.a,8
+abraxas,takeaway,1
+abraxas,usa & uk,22
+abraxas,worlwide,4
+abraxas,uk & usa ,8
+abraxas,united states ,84
+abraxas,worldwide- $70,88
+abraxas,pacific northwest,15
+abraxas,european union - slo,3
+nucleus,yemen,148
+nucleus,canada,3013
+nucleus,denmark,1579
+nucleus,portugal,25
+oxygen ,egypt,69
+oxygen ,germany,20939
+pandora,denmark,728
+pandora,cook islands,2
+alphabay,egypt,13
+alphabay,germany,285850
+alphabay,bangladesh,12
+alphabay,seychelles,93
+alphabay,el salvador,12
+valhalla,norway,11938
+valhalla,serbia,324
+valhalla,denmark,1862
+andromeda,usa  east,108
+evolution,turkey,26
+evolution,finland,3803
+evolution,tanzania,26
+evolution,svalbard and jan may,22
+cloud nine,singapore,29
+silk road 2,moldova,8
+hansa market,cambodia,14
+middle earth,canada,32943
+middle earth,denmark,4688
+middle earth,portugal,36
+onion market,asia,40
+onion market,norway,20
+the pirate market,nl - ge,84
+the pirate market,the world,17
+agora,n/a,1041074
+agora,peru,221
+agora,panama,165
+agora,albania,25
+agora,belarus,96
+agora,untied kingdom,989
+agora,netherlands antilles,8
+dream,china,5509
+dream,france,1034
+dream,russia,60
+dream,belgium,868
+dream,ireland,377
+dream,north america,1239
+alpaca,united kingdom,787
+oasis ,spain,620
+outlaw,brazil,41
+outlaw,united states minor ,10
+abraxas,us,113
+abraxas,world,10991
+abraxas,cyprus,1
+abraxas,poland,303
+abraxas,united kingdom ,50
+nucleus,belgium,569
+nucleus,ireland,533
+oxygen ,peru,160
+oxygen ,belarus,201
+pandora,china,1366
+pandora,france,466
+pandora,belgium,1012
+pandora,ireland,460
+pandora,french guiana,9
+alphabay,peru,2276
+alphabay,benin,245
+alphabay,israel,722
+alphabay,belarus,3066
+alphabay,dominica,236
+alphabay,suriname,44
+valhalla,china,65397
+valhalla,france,19049
+valhalla,belgium,25841
+valhalla,ireland,1045
+andromeda,austria,518
+andromeda,americas,395
+andromeda,canadare,38
+andromeda,world wide,316
+andromeda,new zealand,325
+andromeda,undisclosed,13196
+andromeda,the neterlands,639
+andromeda,the netherlands,4600
+andromeda,  united states of a,13
+evolution,togo,44
+evolution,ghana,171
+evolution,ukraine,876
+evolution,bulgaria,273
+evolution,argentina,1942
+evolution,united states,537317
+silkkitie,spain,1550
+silkkitie,nigeria,76
+silkkitie,philippines,16778
+silkkitie,south africa,21
+silkkitie,czech republic,595
+cloud nine,spain,1841
+cloud nine,mexico,49
+cloud nine,hong kong,583
+cloud nine,philippines,360
+cloud nine,south africa,929
+cloud nine,czech republic,51
+silk road 2,spain,8321
+silk road 2,mexico,8
+silk road 2,hong kong,15740
+silk road 2,south africa,2473
+silk road 2,czech republic,5781
+middle earth,germany,61731
+middle earth,north america,10562
+onion market,gbr,3094
+onion market,ind,1916
+onion market,china,217
+onion market,france,165
+onion market,belgium,154
+onion market,ireland,48
+the pirate market,fr,14
+the pirate market,everywhere,122
+the pirate market,read this!!,21
+the pirate market,mr whites mouth,14
+tochka free market,brazilv,2169
+tochka free market,european union,71005
+tochka free market,united kingdom,16321
+agora,andorra,14
+agora,austria,8575
+agora,lithuania,264
+agora,venezuela,39
+agora,world wide,382
+agora,new zealand,3162
+agora,the united snakes of captivity,2785
+agora,the united snakes of  captivity,46
+dream,brazil,15
+dream,cambodia,98
+alpaca,italy,8
+outlaw,mexico,620
+abraxas,germany,106447
+abraxas,uk & usa,4
+abraxas,seychelles,11
+abraxas,danmark uk norge,1
+abraxas,french southern terr,7
+oxygen ,austria,1597
+oxygen ,lithuania,861
+oxygen ,new zealand,484
+oxygen ,somewhere north amer,791
+pandora,brazil,35
+alphabay,austria,15377
+alphabay,burundi,236
+alphabay,slovenia,167
+alphabay,lithuania,394
+valhalla,cambodia,669
+andromeda,italyu,79
+andromeda,usa east,54
+andromeda,european union,4289
+andromeda,the netherland,33
+andromeda,united kingdom,1482
+andromeda,uk and philippines,2852
+andromeda,usauk and philippine,3117
+evolution,guernsey,252
+evolution,australia,120082
+evolution,western sahara,47
+silkkitie,poland,547
+silkkitie,finland,75642
+cloud nine,finland,2736
+silk road 2,angola,13
+silk road 2,finland,814
+onion market,can,900
+real deal market,[removed document.lo,3099
+the pirate market,gmt +2,18
+the pirate market,new zealand,196
+tochka free market,italy,10526
+tochka free market,switzerland,1132
+agora,uk ,350
+agora,slovakia,503
+agora,united kingdom,1512
+agora,dominican republic,325
+dream,mexico,100
+dream,czech republic,163
+abraxas,n/a,1
+abraxas,2 eur,81
+abraxas,uranus,60
+abraxas,unkonwn,32
+abraxas,usa / torland,3
+abraxas,fiji uk germany latv,8
+nucleus,new zealand,263
+oxygen ,united kingdom,28656
+pandora,mexico,135
+pandora,hong kong,2551
+alphabay,iran,237
+alphabay,bhutan,37
+alphabay,norway,4877
+alphabay,eritrea,79
+alphabay,hungary,2849
+alphabay,uruguay,29
+alphabay,kyrgyzstan,39
+alphabay,luxembourg,235
+alphabay,mozambique,21
+alphabay,united kingdom,379716
+alphabay,dominican republic,7
+bungee54,worldwide,1811
+valhalla,mexico,865
+valhalla,ethiopia,653
+andromeda,www,248
+andromeda,italy,496
+andromeda,worldwode,57
+andromeda,undeclared,5767
+andromeda,switzerland,79
+evolution,greece,391
+evolution,estonia,128
+evolution,pakistan,611
+evolution,worldwide,1608283
+silkkitie,ukraine,210
+silkkitie,united states,8913
+cloud nine,not specified,93761
+cloud nine,united states,88205
+silk road 2,bulgaria,930
+silk road 2,united states,122484
+hansa market,thailand,1957
+hansa market,switzerland,2673
+middle earth,venezuela,439
+middle earth,new zealand,469
+onion market,bel,9
+onion market,dnk,1235
+onion market,tha,7
+onion market,mexico,12
+onion market,south africa,180
+onion market,czech republic,174
+the pirate market,nl,1613
+the pirate market,hidden web,580
+the pirate market,european union,29
+tochka free market,sweden,611
+tochka free market,colombia,325
+agora,india,87949
+agora,italy,14491
+agora,belize,157
+agora,bangkok,264
+agora,thailand,3030
+agora,undeclared,944
+agora,switzerland,6634
+dream,europe,10673
+alpaca,spain,58
+alpaca,czech republic,21
+oasis ,western europe,2869
+oasis ,australia and new ze,345
+abraxas,austria,130
+abraxas,blegium,568
+abraxas,lithuania,41
+abraxas,world wide,9
+abraxas,the netherlands,12
+abraxas,more than 1000 pills,462
+oxygen ,india,2484
+oxygen ,italy,2599
+oxygen ,switzerland,186
+oxygen ,somewhere europe,24736
+pandora,european union,8057
+alphabay,india,67475
+alphabay,italy,19385
+alphabay,france,63615
+alphabay,russia,5463
+alphabay,cape verde,31
+alphabay,vatican city,5813
+andromeda,eu,2883
+andromeda,any,79
+andromeda,spaim,33
+andromeda,sweden,337
+andromeda,usaeast,54
+andromeda,canada free shipping,51
+andromeda,via email or torchat,55
+evolution,canada,109899
+evolution,serbia,1048
+evolution,denmark,12491
+evolution,portugal,600
+evolution,saudi arabia,25
+cloud nine,australia,18130
+cloud nine,indonesia,400
+silk road 2,australia,44183
+hansa market,sweden,470
+hansa market,singapore,23
+hansa market,netherlands,15984
+middle earth,africa,7
+middle earth,slovakia,2046
+middle earth,united kingdom,77264
+onion market,esp,104
+onion market,ita,282
+onion market,nld,3006
+onion market,finland,12
+onion market,netherlnads,10
+the pirate market,usa,3076
+the pirate market,you,3192
+the pirate market,blackcock,14
+the pirate market,netherland,153
+the pirate market,switzerland,66
+the pirate market,jack sparrow,4
+tochka free market,spain,7154
+agora,eu,285584
+agora,sweden,53114
+agora,bluerave,5607
+agora,fulltime,96
+agora,candyland,48
+agora,singapore,1487
+agora,wallis and futuna,8
+agora,russian federation,161
+agora,latin america/ no colombia,138
+dream,bulgaria,94
+alpaca,finland,31
+outlaw,australia,180
+outlaw,netherlands,8024
+abraxas,uk ,358
+abraxas,bhutan,1
+abraxas,norway,402
+abraxas,hungary,358
+abraxas,torland,25750
+abraxas,usa and eu,44
+abraxas,germany begium,2
+abraxas,united kingdom,59265
+abraxas,belgium germany ,1
+nucleus,india,91
+nucleus,italy,135
+nucleus,thailand,42
+nucleus,switzerland,229
+oxygen ,sweden,192
+oxygen ,kazakhstan,10
+pandora,usa,33
+alphabay,brazil,2333
+alphabay,uganda,5
+alphabay,moldova,1451
+alphabay,morocco,4024
+valhalla,bulgaria,800
+andromeda,spain,950
+andromeda,germany             ,79
+evolution,china,146062
+evolution,latvia,1169
+evolution,belgium,95651
+evolution,ireland,3905
+evolution,malaysia,151
+evolution,christmas island,131
+cloud nine,pakistan,2
+middle earth,india,4102
+middle earth,italy,168
+middle earth,thailand,66
+middle earth,undeclared,78947
+middle earth,switzerland,2310
+onion market,aus,2247
+onion market,usa,5839
+onion market,assdsadasd,10
+the pirate market,dd,4
+the pirate market,me,795
+the pirate market,here,7
+the pirate market,sweden,69
+the pirate market,us - cali,31
+the pirate market,netherlands,2155
+the pirate market,germany - others ask,20
+agora,spain,12271
+agora,romania,97
+agora,sri lanka,42
+agora,philippines,9191
+agora,undeclared;),14734
+agora,american samoa,24
+dream,jamaica,153
+dream,colombia,194
+dream,australia,4448
+dream,netherlands,18489
+alpaca,united states,1695
+oasis ,hungary,40
+oasis ,southern europe,161
+outlaw,pakistan,60
+abraxas,india,10895
+abraxas,italy,4854
+abraxas,france,4540
+abraxas,undeclared,6973
+abraxas,usa to usa,2
+abraxas,worldwide ,656
+abraxas,south america,6
+abraxas, united states,80
+abraxas, france germany or b,80
+abraxas,nl/de (read profile ,1314
+abraxas,no shipping to isle ,1
+nucleus,sweden,4691
+nucleus,netherlands,10020
+oxygen ,spain,2472
+oxygen ,bahrain,79
+oxygen ,romania,156
+oxygen ,philippines,6418
+oxygen ,american samoa,83
+pandora,sweden,3482
+pandora,colombia,345
+pandora,australia,7106
+pandora,netherlands,13143
+alphabay,iraq,22
+alphabay,spain,26194
+alphabay,guyana,7
+alphabay,mexico,644
+alphabay,algeria,303
+alphabay,bahrain,259
+alphabay,nigeria,623
+alphabay,botswana,9
+alphabay,ethiopia,12
+alphabay,kiribati,39
+alphabay,philippines,16902
+alphabay,south africa,3175
+alphabay,czech republic,13068
+unb0.jpg,httexg or d=5424in you ys,1
+valhalla,sweden,10009
+valhalla,australia,22472
+valhalla,netherlands,128927
+andromeda,poland,79
+andromeda,thorland,79
+evolution,kenya,8
+evolution,bolivia,14
+evolution,cambodia,257
+evolution,afghanistan,9
+evolution,hong kong sar china,51839
+evolution,netherlands antilles,34
+silkkitie,norway,2147
+silkkitie,serbia,24
+silkkitie,denmark,97
+cloud nine,denmark,278
+silk road 2,canada,35254
+silk road 2,denmark,4994
+hansa market,japan,48
+hansa market,poland,722
+middle earth,sweden,2875
+middle earth,colombia,2788
+middle earth,singapore,316
+middle earth,russian federation,63
+onion market,aut,11
+onion market,xxx,6946
+onion market,australia,1182
+onion market,usa and uk,6
+the pirate market,usa ,17
+the pirate market,brasil,145
+the pirate market,u.s.a.,27
+the pirate market,us and ca,3
+the pirate market,usa & canada,16
+tochka free market,united states,111987
+agora,poland,15663
+dream,worldwide,31143
+alpaca,australia,231
+oasis ,china,617
+oasis ,france,1109
+oasis ,belgium,154
+oasis ,ireland,20
+outlaw,canada,128
+outlaw,poland,106
+abraxas,eu,49313
+abraxas,ww,1485
+abraxas,ksam,3
+abraxas,brazil,49
+abraxas,hp max,1
+abraxas,us domestic,38
+abraxas,great britain,35
+abraxas,western canada,28
+abraxas,fast shipping to usa,1
+nucleus,spain,1905
+oxygen ,cyprus,91
+oxygen ,poland,984
+oxygen ,antarctica,424
+pandora,guatemala,46
+pandora,scandinavia,33
+alphabay,korea,1055
+alphabay,angola,1132
+alphabay,turkey,184
+alphabay,finland,1665
+alphabay,tanzania,16
+valhalla,greece,39
+valhalla,estonia,1976
+valhalla,romania,57
+valhalla,pakistan,345
+andromeda,tor,728
+andromeda,united states,2054
+evolution,chile,453
+evolution,andorra,473
+evolution,new zealand,1864
+evolution,cayman islands,25
+silkkitie,china,2910
+silkkitie,france,1023
+silkkitie,belgium,2327
+silkkitie,ireland,48
+cloud nine,china,5096
+cloud nine,belgium,1877
+cloud nine,ireland,423
+silk road 2,china,76478
+silk road 2,latvia,1458
+silk road 2,belgium,85014
+silk road 2,ireland,3305
+silk road 2,malaysia,53
+silk road 2,saint martin (fr),24
+hansa market,germany,18732
+middle earth,spain,6883
+middle earth,philippines,11719
+onion market,guatemala,9
+onion market,worldwide,5423
+onion market,scandinavia,4
+the pirate market,us,1156
+the pirate market,eur,18
+the pirate market,world,140
+the pirate market,mr whites right nut,14
+agora,bahamas,42
+agora,ukraine,27366
+agora,argentina,2784
+agora,swaziland,235
+agora,the home of the body bags,186
+dream,japan,979
+dream,canada,4723
+dream,portugal,21
+oasis ,brazil,346
+outlaw,germany,33738
+outlaw,seychelles,20
+abraxas,east,24
+abraxas,spain,10300
+abraxas,mexico,3285
+abraxas,internet,78696
+abraxas,hong kong,4200
+abraxas,philippines,376
+abraxas,south africa,1332
+abraxas,czech republic,1773
+abraxas,danmark norge uk,5
+abraxas,belguim germany neth,1
+abraxas,danmark sverige norg,61
+abraxas,united states - east,222
+nucleus,poland,2315
+oxygen ,ghana,63
+oxygen ,bahamas,68
+oxygen ,ukraine,1180
+oxygen ,argentina,308
+oxygen ,swaziland,69
+oxygen ,united states,81013
+pandora,japan,220
+pandora,canada,9367
+alphabay,palau,149
+alphabay,rwanda,256
+alphabay,bahamas,993
+alphabay,ukraine,4507
+alphabay,bulgaria,2010
+alphabay,argentina,1159
+alphabay,united states,956043
+alphabay,united arab emirates,404
+valhalla,japan,4837
+valhalla,canada,21590
+valhalla,poland,9369
+valhalla,portugal,857
+andromeda, ,55
+andromeda,bohle,114
+andromeda,california,20
+andromeda,uk  domestic,57
+andromeda,the underground,632
+evolution,fiji,66
+evolution,slovakia,1804
+evolution,luxembourg,823
+evolution,bosnia and herzegovi,105
+silkkitie,cambodia,111
+cloud nine,brazil,39
+cloud nine,cambodia,22
+cloud nine,united states minor ,1
+silk road 2,netherlands antilles,14
+hansa market,peru,65
+middle earth,poland,1044
+middle earth,antarctica,8
+onion market,cze,50
+onion market,canada,1969
+onion market,denmark,269
+the pirate market,germany,2297
+the pirate market,uk - domestic,13
+agora,agora,9034
+agora,usa and uk,84
+dream,germany,11147
+haven,unknown,4453
+oasis ,czech republic,5
+oasis ,united states of ame,33505
+abraxas,u.k,1238
+abraxas,e.u.,28
+abraxas,korea,32
+abraxas,europe,554
+abraxas,au- $30,88
+abraxas,danmark,284
+abraxas,finland,19
+nucleus,germany,13475
+nucleus,united states,33667
+oxygen ,israel,28
+oxygen ,vatican,64
+oxygen ,indonesia,197
+pandora,aruba,24
+pandora,germany,20406
+alphabay,syria,36
+alphabay,australia,163749
+valhalla,egypt,24
+valhalla,latvia,26
+valhalla,croatia,28
+valhalla,germany,139159
+andromeda,all,844
+andromeda,canda,51
+andromeda,europe spain portuga,57
+evolution,thailand,6890
+evolution,azerbaijan,4
+evolution,north korea,107
+evolution,switzerland,6302
+silkkitie,mexico,1120
+silkkitie,ethiopia,734
+cloud nine,chile,48
+cloud nine,armenia,31
+cloud nine,ethiopia,30
+silk road 2,tuvalu,14
+silk road 2,armenia,4290
+silk road 2,new zealand,1571
+hansa market,austria,1328
+middle earth,united states,179419
+middle earth,pm(site messages),125356
+onion market,germany,3763
+the pirate market,ussa,76
+tochka free market,hungary,15519
+agora,my pm,106
+dream,peru,30
+dream,albania,102
+alpaca,china,156
+alpaca,france,105
+alpaca,belgium,24
+oasis ,europe,3280
+outlaw,austria,1827
+abraxas,inndia,5
+abraxas,bulgaria,423
+abraxas,new york,8
+abraxas,argentina,180
+abraxas,usa & uk ,109
+abraxas,deutschland,26
+abraxas,philippines ,152
+abraxas,united states,145328
+alphabay,niger,1412
+alphabay,greece,1272
+alphabay,estonia,201
+alphabay,pakistan,724
+alphabay,worldwide,1955569
+alphabay,0ital trel.onval terd statexbayd71_1tes,1
+andromeda,uk,7099
+andromeda,norway,395
+andromeda,denmark,79
+andromeda,torland,1704
+evolution,sweden,43612
+evolution,jamaica,11
+evolution,colombia,5916
+evolution,singapore,275
+evolution,netherlands,215754
+cloud nine,european union,15172
+cloud nine,bosnia and herzegovi,68
+silk road 2,slovakia,1228
+hansa market,hungary,252
+hansa market,united kingdom,18086
+middle earth,none,6105
+middle earth,western sahara,1
+onion market,che,38
+onion market,united state,30
+onion market,unite kingdom,10
+the pirate market,austria,203
+the pirate market,not specified ,4
+the pirate market,the netherlands,2047
+tochka free market,france,16581
+tochka free market,belgium,21749
+tochka free market,ireland,45
+agora,uk,457262
+agora,asia,606
+agora,norway,10370
+agora,denmark,22695
+agora,hungary,242
+agora,torland,211396
+agora,barbados,3
+agora,saint vincent and the grenadines,69
+dream,austria,826
+alpaca,vietnam,24
+oasis ,bulgaria,30
+outlaw,hungary,78
+outlaw,united kingdom,11834
+abraxas,\,5
+abraxas,australia,50223
+abraxas,cambridge,189
+abraxas,california,336
+abraxas,usa and uk,449
+abraxas,the darknet,60
+abraxas,unites states,23
+abraxas,ask if overseas,1
+nucleus,austria,846
+nucleus,europe union,20016
+oxygen ,denmark,579
+oxygen ,hungary,412
+pandora,austria,41
+alphabay,congo,51
+alphabay,canada,181455
+alphabay,serbia,1154
+alphabay,denmark,11719
+alphabay,barbados,163
+alphabay,portugal,5873
+alphabay,saudi arabia,136
+valhalla,austria,6052
+valhalla,lithuania,2355
+andromeda,china,1343
+andromeda,france,395
+andromeda,belgium,557
+andromeda,ireland,456
+andromeda, undeclared,158
+evolution,cuba,11
+evolution,romania,70
+evolution,guatemala,1209
+evolution,sri lanka,233
+cloud nine,switzerland,838
+silk road 2,thailand,64
+silk road 2,switzerland,2093
+hansa market,india,704
+hansa market,italy,1468
+hansa market,france,1317
+hansa market,europe (eu),17077
+middle earth,austria,3626
+onion market,nor,53
+onion market,swe,1109
+onion market,the neterlands,30
+onion market,the netherlands,200
+the pirate market,norway,20
+the pirate market,torland,432
+the pirate market,united kingdom,153
+tochka free market,other,15278
+agora,china,413234
+agora,france,29827
+agora,belgium,66685
+agora,ireland,3857
+agora,malaysia,32
+dream,africa,80
+dream,united kingdom,22666
+oasis ,australia,1179
+oasis ,netherlands,9056
+outlaw,india,1180
+outlaw,italy,4070
+outlaw,switzerland,558
+abraxas,pakistan,177
+abraxas,worldwide,78162
+abraxas,belgium germany neth,36
+abraxas,belgium-holland-ital,22
+nucleus,norway,207
+nucleus,hungary,323
+nucleus,united kingdom,21337
+nucleus,usa including canada,5670
+nucleus,<strong>seller</strong>,255882
+oxygen ,china,19695
+oxygen ,france,19545
+oxygen ,russia,1175
+oxygen ,belgium,867
+oxygen ,ireland,415
+oxygen ,burkina faso,54
+oxygen ,dem. republic of con,48
+pandora,norway,149
+pandora,hungary,23
+pandora,slovakia,59
+pandora,united kingdom,18302
+alphabay,china,115365
+alphabay,latvia,985
+alphabay,belgium,24025
+alphabay,croatia,52
+alphabay,ireland,7679
+alphabay,malaysia,9
+alphabay,zimbabwe,1423
+alphabay,ivory coast,2074
+alphabay,solomon islands,9
+alphabay,http:pns/2015  voitieur ptadalareatment of neuropat,1
+valhalla,hungary,625
+valhalla,slovakia,802
+valhalla,united kingdom,182005
+andromeda,holland,895
+andromeda,unitedkingdom,2
+andromeda,    united states of,8
+andromeda, united states of am,130
+evolution,poland,30886
+evolution,georgia,12
+evolution,djibouti,100
+silkkitie,sweden,488
+silkkitie,viet nam,188
+silkkitie,australia,565
+silkkitie,netherlands,7772
+cloud nine,sweden,576
+cloud nine,colombia,152
+cloud nine,netherlands,20522
+market_name,ship_from,2821
+silk road 2,sweden,11117
+silk road 2,colombia,382
+silk road 2,singapore,143
+silk road 2,netherlands,62619
+hansa market,brazil,350
+hansa market,madagascar,9
+middle earth,asia,94
+middle earth,norway,544
+onion market,usaa,6
+onion market,canada ,6
+onion market,european union,1249
+onion market,united kingdom,3008
+onion market,european union ,6
+the pirate market,india,286
+the pirate market,france,2227
+the pirate market,anywhere,666
+the pirate market,undeclared,677
+tochka free market,mexico,420
+agora,brazil,338
+agora,moldova,19
+agora,morocco,75
+agora,cambodia,250
+agora,china or eu,516
+agora,uk and ireland,1073
+dream,india,1744
+dream,italy,453
+dream,switzerland,252
+dream,vatican city,483
+oasis ,worldwide,13150
+outlaw,taiwan,32
+abraxas,uk,12552
+abraxas,asia,42
+abraxas,canada,27794
+abraxas,serbia,177
+abraxas,denmark,3987
+abraxas,my sack,16
+abraxas,unknown,148266
+abraxas,domestic,1
+abraxas,turks and caicos isl,7
+nucleus,china,11636
+nucleus,france,2967
+nucleus,russia,69
+oxygen ,brazil,74
+oxygen ,uganda,69
+oxygen ,morocco,157
+oxygen ,cambodia,794
+oxygen ,san marino,38
+oxygen ,afghanistan,530
+pandora,india,4515
+pandora,italy,2041
+pandora,thailand,28
+pandora,undeclared,252
+pandora,switzerland,521
+alphabay,kenya,617
+alphabay,panama,237
+alphabay,albania,1064
+alphabay,bolivia,146
+alphabay,vietnam,232
+alphabay,cambodia,1611
+alphabay,afghanistan,106510
+alphabay,ht shoure o.onionoacker andf100_backer ide,1
+valhalla,india,11880
+valhalla,italy,8871
+valhalla,russia,116
+valhalla,switzerland,3979
+andromeda,bc,79
+andromeda,mexico,79
+andromeda,internet,2923
+andromeda,usa only,79
+andromeda,undeclared ,237
+andromeda,south africa,158
+andromeda,united states of ame,110
+andromeda,usa uk and philippin,1769
+evolution,aruba,171
+evolution,egypt,3
+evolution,gambia,13
+evolution,germany,205135
+evolution,swaziland,264
+evolution,bangladesh,138
+evolution,el salvador,5
+silkkitie,estonia,177
+cloud nine,guatemala,90
+silk road 2,romania,378
+silk road 2,reunion (fr),6
+hansa market,spain,1459
+hansa market,mexico,96
+hansa market,hong kong,14352
+hansa market,philippines,17193
+hansa market,south africa,108
+hansa market,czech republic,122
+middle earth,china,7016
+middle earth,france,7630
+middle earth,belgium,7078
+middle earth,ireland,2513
+middle earth,malaysia,5
+middle earth,south america,133
+onion market,irl,53
+onion market,india,1270
+onion market,italy,282
+onion market,thailand,9
+onion market,undeclared,59
+onion market,switzerland,91
+the pirate market,eu,4299
+the pirate market,detschland,20
+tochka free market,finland,1168
+digitbep100 eeafnd 0trin,d.php?habasic tfpul.naa,1
+agora,u,55
+agora,chile,35
+agora,mexico,7987
+agora,internet,312602
+agora,hong kong,59343
+agora,south africa,14041
+agora,cayman islands,68
+agora,czech republic,13850
+dream,sweden,93
+oasis ,canada,2897
+oasis ,denmark,68
+oasis ,united kingdom of gr,5485
+outlaw,spain,1920
+outlaw,czech republic,822
+abraxas,ind,32
+abraxas,china,32985
+abraxas,latvia,1
+abraxas,belgium,4811
+abraxas,ireland,50
+abraxas,wholesalers,46
+abraxas,united sates,88
+abraxas,only switzerland,2
+oxygen ,chile,58
+oxygen ,brunei,66
+oxygen ,mexico,9
+oxygen ,algeria,210
+oxygen ,hong kong,2380
+oxygen ,costa rica,450
+oxygen ,south africa,690
+oxygen ,czech republic,620
+pandora,eu,35
+alphabay,malta,86
+alphabay,qatar,540
+alphabay,andorra,20
+alphabay,armenia,683
+alphabay,venezuela,995
+alphabay,costa rica,139
+alphabay,new zealand,7633
+alphabay,liechtenstein,51
+alphabay,saint kitts and nevi,186
+alphabay,saint vincent and th,7
+unb0.jpg,buyir,12
+andromeda,europe,1363
+andromeda,torlan,74
+andromeda,hidden web,237
+andromeda,undidclosed,8
+andromeda,digital world,79
+andromeda,theunderground,79
+andromeda, united kingdom,55
+andromeda, uk and philippines,310
+evolution,peru,99
+silkkitie,japan,6
+silkkitie,canada,1152
+silkkitie,portugal,356
+cloud nine,canada,27950
+silk road 2,japan,6
+silk road 2,poland,1503
+hansa market,finland,260
+middle earth,brazil,21
+middle earth,bolivia,54
+middle earth,cambodia,270
+middle earth,afghanistan,11
+onion market,deu,2983
+onion market,gtm,7
+onion market,sweden,535
+onion market,colombia,10
+onion market,netherlands,2412
+the pirate market,spain,233
+the pirate market,mexico,5
+the pirate market,primal,205
+the pirate market,internet,63
+the pirate market,the abyss,11
+tochka free market,interwebs,155430
+0.10r_100m13b9cdu2pul henucleust lin,digitty in1b13d0hc ://pwoand hymo99 hospy/20p:/me,2
+agora,nl,7
+agora,fiji,718
+agora,europe,8979
+agora,turkey,160
+agora,finland,909
+agora,us & canada,80
+agora,holy see (vatican city state),20
+dream,spain,831
+dream,philippines,4546
+dream,south africa,315
+haven,digital,1508
+alpaca,netherlands,1042
+oasis ,germany,3540
+abraxas,u.k.,234
+abraxas,panama,1
+abraxas,express,1
+nucleus,mexico,120
+nucleus,philippines,2310
+nucleus,south africa,56
+nucleus,czech republic,443
+oxygen ,turkey,69
+oxygen ,finland,85
+oxygen ,isle of man,276
+pandora,spain,1323
+pandora,south africa,1263
+pandora,czech republic,662
+alphabay,fiji,343
+alphabay,slovakia,4003
+valhalla,spain,9451
+valhalla,brasil,1368
+valhalla,nigeria,80
+valhalla,philippines,43832
+valhalla,south africa,5640
+valhalla,czech republic,7749
+andromeda,usa,17276
+andromeda,somewhere,316
+andromeda,undiscspain,57
+andromeda,world wide ,158
+evolution,austria,9651
+evolution,ecuador,6
+evolution,slovenia,1865
+evolution,lithuania,533
+silkkitie,germany,21292
+cloud nine,germany,26625
+silk road 2,germany,42546
+hansa market,argentina,80
+hansa market,united states,107628
+hansa market,united arab emirates,35
+middle earth,chile,1
+middle earth,mexico,1273
+middle earth,hong kong,21480
+middle earth,south africa,392
+middle earth,czech republic,1824
+onion market,spain,318
+onion market,united states ,22
+the pirate market,nl ,48
+the pirate market,europe,5279
+the pirate market,tormail,13
+tochka free market,netherlands,30867
+tochka free market,australia and oceani,685
