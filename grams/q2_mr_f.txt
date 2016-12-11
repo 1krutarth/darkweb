@@ -40,8 +40,6 @@ hlym,Evolution,94
 lmds,Evolution,666
 lyso,Alphabay,3581
 peta,Hansa Market,2
-soon,0.07276549,6
-soon,0.41449550,9
 topq,Nucleus,16
 vudu,Evolution,833
 xcon,Cloud Nine,264
@@ -410,7 +408,6 @@ luonggia,Evolution,14
 man-FIRE,Agora,282
 meowtime,Agora,256
 merchant,Dream,171
-mixed QP,2.94092933,9
 moke1313,Evolution,66
 mrdoom07,Alphabay,193
 ozAgrade,Agora,2202
@@ -426,21 +423,16 @@ quickfix,Evolution,1732
 sexyTime,Evolution,556
 shrouded,Nucleus,7
 snapback,Agora,5092
-tutorial,0.00712425,6
 vacheron,Evolution,65
 viper112,Evolution,9
 whispers,Alphabay,9
 yosemite,Alphabay,1
 -Corrupt-,Alphabay,17
-20k hulks,65.89510553,9
 Addyshack,Evolution,7
 AfterShop,Silkkitie,831
 AirCanada,Evolution,72
 AngelEyes,Abraxas,497
 Archimede,Evolution,1940
-As agreed,0.41949341,3
-As agreed,0.44754610,4
-As agreed,0.57640939,4
 BTC_drugs,Alphabay,2916
 Biznesmen,Alphabay,2703
 CharlieOz,Alphabay,133
@@ -497,7 +489,6 @@ SquarePeg,Agora,21
 StonedAge,Dream,28
 Super-187,Cloud Nine,10
 THCmaster,Outlaw,72
-Thank you,0.00430483,7
 The3rdeye,Oxygen ,28
 TheGuvnor,Cloud Nine,60
 TheReason,Agora,101
@@ -938,7 +929,6 @@ DragonEmperor,Agora,112
 Dreadpirate89,Dream,171
 DutchDynamite,Alphabay,564
 Dutchmalverde,Dream,231
-FREE SHIPPING,1.96477278,6
 FatTuesday_13,Alphabay,1096
 FriendlyFiend,Agora,1133
 GermanOpioids,Abraxas,780
@@ -972,7 +962,6 @@ TheHighlander,Abraxas,126
 TheOldManLove,Cloud Nine,19
 TheTopDigital,Valhalla,12732
 TheWeedman2.0,Dream,26
-Tramadol 50mg,0.06391955,7
 Tramoteket2.0,Nucleus,487
 Transcendence,Haven,45
 VoltronVendor,Evolution,65
@@ -988,7 +977,6 @@ cristiecrunch,Evolution,132
 cryptochronic,Agora,92
 domesticanada,Abraxas,12
 emeraldgemini,Alphabay,4267
-full tutorial,0.00913993,9
 goodneighbour,Onion Market,18
 hammerhome123,Alphabay,696
 hashishmaster,Silkkitie,159
@@ -1032,7 +1020,6 @@ TheHeissenberg,Nucleus,1841
 TheHeissenberg,Valhalla,17199
 The_Collective,Valhalla,45
 TomorrowlandAU,Evolution,203
-Tramadol 100mg,0.08835781,9
 Transcendental,Cloud Nine,289
 TrickleDownInc,Nucleus,127
 TrickleDownInc,Evolution,304
@@ -1140,8 +1127,6 @@ TheAustralianShaman,Agora,11
 cannaconcentratesUK,Hansa Market,47
 ForgedPettyDocuments,Oxygen ,326
 booksellershadowing9,Abraxas,1
-DEXTRO Methamphetamine,1.34461645,6
-DEXTRO Methamphetamine,1.43712318,9
 Mr,Cloud Nine,80
 zor,Silkkitie,311
 ADHD,Evolution,603
@@ -1163,7 +1148,6 @@ empo,Evolution,954
 j0dy,Dream,237
 rang,Agora,152
 rgnl,Dream,460
-soon,0.95393347,7
 AndCo,Evolution,982
 B.K.R,Dream,5
 Bisto,Evolution,792
@@ -1215,7 +1199,6 @@ xRayy,Evolution,198
 xgold,Alphabay,80
 xman1,Middle Earth,1687
 zzzib,Nucleus,10
-1000mg,0.55867202,4
 ACHman,Alphabay,59
 Addguy,Abraxas,49
 Ajaxxx,Alphabay,500
@@ -1527,8 +1510,6 @@ sunfaija,Silkkitie,553
 super354,Evolution,27
 synester,Evolution,889
 tinamark,Cloud Nine,522
-tutorial,0.01139783,9
-tutorial,0.01883417,5
 wamozart,Hansa Market,679
 wdhelper,Evolution,195
 webdrugs,Nucleus,442
@@ -1536,8 +1517,6 @@ weedlove,Middle Earth,483
 whiteowl,Nucleus,106
 xanbuddy,Cloud Nine,3
 Andromeda,Cloud Nine,400
-As agreed,0.37976888,3
-As agreed,0.47781661,4
 BCBUDKING,Valhalla,680
 BCBUDKING,Evolution,565
 BC_Source,Cloud Nine,36
@@ -1837,7 +1816,6 @@ NWGreenBuds,Alphabay,968
 NorskApotek,Evolution,186
 Norskapotek,Nucleus,114
 NuuskaTukku,Silkkitie,932
-ORANGE HAZE,0.18945773,9
 PCubeSensei,Agora,139
 Pharma-deal,Agora,6672
 Pharma-deal,Alphabay,8888
@@ -1918,7 +1896,6 @@ ChiTownMafia,Agora,196
 ChronicQuick,Nucleus,38
 CipherCracks,Agora,1921
 ColonelKurtz,Agora,95
-Custom Order,0.81851815,9
 Darkcryptost,Alphabay,556
 Dissociative,Hansa Market,486
 DoubleHelixx,Nucleus,109
@@ -1951,7 +1928,6 @@ SacDirtyCrew,Abraxas,572
 SampleXpress,Cloud Nine,438
 ShadowRunner,Alphabay,349
 Shiny-Flakes,Agora,8868
-Shipping Fee,0.04034861,6
 Silky-Smooth,Evolution,1086
 Sipulimyyjä,Valhalla,5
 SkullsnBones,Dream,230
@@ -2174,7 +2150,6 @@ VeryShinyFlakes,Nucleus,182
 billyisonthenet,Dream,35
 californication,Onion Market,18
 chemicals_spain,Dream,50
-codiene sulfate,0.12222819,9
 dmvnationsupply,Dream,8
 geoffreygiraffe,Pandora,403
 hartskompagniet,Onion Market,12
@@ -2262,18 +2237,14 @@ food,Evolution,26
 hund,Oxygen ,66
 inty,Onion Market,104
 ixxx,Agora,56
-list,0.00462342,6
 lmds,Cloud Nine,123
 love,Middle Earth,129
 mkkh,Outlaw,667
 shaz,Pandora,127
 soap,Agora,21
-soon,0.42443106,6
-soon,0.49060531,4
 szad,Evolution,128
 user,Alphabay,224
 zx88,Evolution,3317
-3 pp4,0.57000000,19
 A-E-F,Evolution,1230
 AM123,Nucleus,336
 AM123,Valhalla,241
@@ -2308,7 +2279,6 @@ citra,Abraxas,541
 dekay,Middle Earth,254
 dibbo,Evolution,65
 dicki,Hansa Market,785
-fot t,2.95395308,6
 fresh,Middle Earth,381
 iRave,Agora,872
 iRave,Alphabay,2847
@@ -2324,7 +2294,6 @@ total,Cloud Nine,80
 turnt,Alphabay,520
 unisi,Evolution,65
 weeed,Valhalla,86
-1000mg,0.60497774,8
 1wowwe,Cloud Nine,10
 3gents,Cloud Nine,744
 AnonDr,Evolution,45
@@ -2364,7 +2333,6 @@ Syndra,Alphabay,364
 SyntaX,Alphabay,203
 THEINC,Abraxas,23
 Tallay,Alpaca,17
-Thanks,67.52578101,6
 TheHSN,Evolution,103
 Toyota,Nucleus,2745
 Wanted,Alphabay,41
@@ -2373,7 +2341,6 @@ ajaxfc,Abraxas,46
 angels,Pandora,545
 arnold,Valhalla,5843
 cigs4u,Alphabay,51
-custom,0.33617635,4
 devin9,Alphabay,144
 dilo28,Evolution,342
 frasen,Alphabay,1189
@@ -2591,8 +2558,6 @@ TatyThai,Evolution,6374
 The.Plug,Agora,112
 Tollense,Dream,10
 Topdrugs,Pandora,273
-Tutorial,0.00456684,27
-Tutorial,0.00714524,7
 VendFlix,Nucleus,50
 Visconti,Alphabay,110
 YoroZuya,Evolution,51
@@ -2640,7 +2605,6 @@ mrfields,Nucleus,1875
 mrwhippy,Pandora,915
 msrt5mp2,Nucleus,459
 mycoberg,Cloud Nine,84
-no links,0.00564653,5
 okcharly,Alphabay,700
 onionguy,Evolution,3662
 oxyclean,Abraxas,1
@@ -2657,7 +2621,6 @@ spanishc,Alphabay,60
 t0pnotch,Cloud Nine,237
 theultra,Alphabay,8
 tramapro,Valhalla,211
-tutorial,0.00456684,9
 valleybb,Agora,1503
 wakawaka,Oasis ,91
 will1474,Evolution,192
@@ -3300,7 +3263,6 @@ QUALITYMEDICAL,Valhalla,458
 TessellatedLSD,Agora,767
 TheCorporation,Alphabay,31
 TheImportStore,Agora,332
-Tramadol 100mg,0.08492397,6
 TrickleDownInc,Cloud Nine,33
 UniqueTreesInc,Evolution,58
 cannabis-king1,Middle Earth,222
@@ -3431,7 +3393,6 @@ freddy&#102;&#108;ex,Agora,179
 The-Orejuela-Brothers,Agora,64
 MysticRideThroughGalaxy,Nucleus,2274
 TrevorPhilipsEnterprises,Agora,560
-2g,0.72021092,7
 6KO,Alphabay,195
 AGP,Agora,852
 BMG,Abraxas,99
@@ -3466,16 +3427,10 @@ jj70,Evolution,434
 lyso,Evolution,1882
 mr99,Dream,145
 rook,Onion Market,108
-seed,0.36478333,13
-soon,0.14030940,8
-soon,0.23332309,7
-soon,0.87808125,9
 vaas,Dream,4
 zues,Nucleus,3261
 zues,Valhalla,326
 zues,Evolution,2143
-750mg,0.46627104,8
-750mg,0.51695200,8
 Asius,Dream,442
 Calev,Cloud Nine,68
 Grime,Oxygen ,801
@@ -3495,7 +3450,6 @@ Sacky,Hansa Market,838
 Snosh,Nucleus,156
 USssL,Agora,133
 Wonka,Abraxas,12
-Xanax,0.09699713,6
 abgal,Evolution,1671
 blows,Nucleus,437
 dagog,Alphabay,320
@@ -3563,7 +3517,6 @@ buddys,Evolution,926
 budman,Evolution,3419
 capman,Haven,36
 cirtol,Dream,88
-custom,0.34012159,7
 dp2015,Alphabay,124
 dr_THC,Agora,400
 ds0699,Evolution,975
@@ -4068,7 +4021,6 @@ niggadogbo,Andromeda,237
 noddingham,Cloud Nine,25
 peteypablo,Evolution,130
 pharmak1ng,Abraxas,85
-qp shrooms,2.37047843,6
 ravehunter,Alphabay,499
 shroomdude,Agora,150
 skrillpapa,Evolution,616
@@ -4391,7 +4343,6 @@ TakeItEasyBaby,Oxygen ,260
 TheBusinessMan,Evolution,516
 The_Drug_Store,Abraxas,950
 The_Goodfellas,Abraxas,2
-Tramadol 150mg,0.11158408,6
 USAShroomDepot,Dream,3
 canadasunshine,Middle Earth,2352
 cannaxpress000,Alphabay,3457
@@ -4509,7 +4460,6 @@ DCdutchconnection,Hansa Market,1788
 NetherlandsFinest,Cloud Nine,387
 Northwest Nuggets,Nucleus,332
 Northwest Nuggets,Valhalla,509
-Pineapple Express,0.07053430,7
 Subdermatoglyphic,Alphabay,28
 aussieimportpills,Nucleus,1200
 dealsthatarereal2,Alphabay,170
@@ -4558,8 +4508,6 @@ gio2,Alphabay,394
 hera,Nucleus,2768
 hoge,Alphabay,74
 luxo,Evolution,342
-soon,0.12112690,9
-soon,1.50792680,7
 tnqs,Onion Market,30
 xdoc,Pandora,18
 xdoc,Middle Earth,1201
@@ -4593,8 +4541,6 @@ Zable,Evolution,4901
 dbman,Evolution,40
 drdex,Agora,114
 elege,Valhalla,1531
-fot t,2.87819968,1
-fot t,2.97191618,7
 ghast,Alphabay,133
 hitch,Middle Earth,200
 iRave,Abraxas,158
@@ -4606,7 +4552,6 @@ sky88,Alphabay,509
 tesco,Andromeda,79
 uk420,Evolution,1796
 128bpm,Nucleus,780
-33 pcs,4.48510944,8
 BECKER,Nucleus,324
 BandUp,Evolution,260
 Bcpltd,Alphabay,259
@@ -4671,7 +4616,6 @@ bowzer,Alphabay,22
 c63amg,Abraxas,1120
 calino,Nucleus,564
 cirtol,Alphabay,169
-custom,1.69458700,8
 danman,Agora,655
 defner,Cloud Nine,9
 faerie,Evolution,71
@@ -4916,8 +4860,6 @@ suren555,Evolution,21
 tapestry,Cloud Nine,40
 the_firm,Evolution,130
 tinydick,Alphabay,18
-tutorial,0.00729287,7
-tutorial,0.01846466,12
 whitesky,Valhalla,192
 whodat47,Evolution,23
 yessir11,Alphabay,108
@@ -4956,7 +4898,6 @@ DutchDeal,Dream,105
 DutchLine,Evolution,383
 Dutchflag,Nucleus,388
 Dutchmail,Abraxas,1237
-E Whoring,0.00436667,64
 Exquisite,Agora,732
 FSB Tools,Nucleus,389
 FreeTrade,Nucleus,1532
@@ -4994,7 +4935,6 @@ Stocktown,Dream,8
 SubsRgood,Pandora,260
 SunSpirit,Agora,254
 SwissKush,Valhalla,36
-Thank you,0.00440729,6
 TheArmory,Alpaca,69
 TrapHouse,Abraxas,619
 UKMassive,Cloud Nine,41
@@ -5238,7 +5178,6 @@ Jnenfrancis,Abraxas,5068
 KwalityGear,Silkkitie,199
 KwalityGear,Hansa Market,4138
 Lentrudfall,Alphabay,108
-MASTER KUSH,0.27379787,6
 MechWarrior,Agora,23
 MissJessica,Nucleus,617
 NapoliGroup,Dream,41
@@ -5528,7 +5467,6 @@ Sugar-Mountain,Dream,14
 SuperSpeedBros,Pandora,36
 The.Mad.Packer,Agora,352
 TheFriendlyDoc,Evolution,111
-Tramadol 100mg,0.09413663,4
 WilliamShatner,Evolution,827
 art_of_the_con,Evolution,66
 blackbobbailey,Dream,9
@@ -5613,7 +5551,6 @@ chinatownchemist,Middle Earth,112
 digitalpossi2014,Abraxas,1055
 kvalitetsroyk123,Valhalla,12
 theRoadLessToxic,Alphabay,1580
-Fatburner Booster,0.11851523,9
 Laavalamppulehmä,Silkkitie,379
 LearningFromN30M3,Outlaw,68
 busted_s3lld4rk3r,Nucleus,12
@@ -5663,7 +5600,6 @@ Keno,Nucleus,38
 MDMA,Nucleus,27
 THCH,Cloud Nine,320
 THG2,Evolution,45
-Test,0.00699549,7
 Xpaq,Alphabay,52
 epan,Alphabay,236
 kesh,Evolution,506
@@ -5672,9 +5608,6 @@ logs,Nucleus,174
 mkkh,Evolution,199
 sier,Onion Market,97
 soba,Middle Earth,256
-soon,0.10855835,1
-soon,0.23187132,6
-soon,0.44251469,6
 subd,Alphabay,41
 theL,Nucleus,2712
 vowl,Abraxas,174
@@ -5780,7 +5713,6 @@ Psycho,Alphabay,6
 Subway,Nucleus,98
 SyntaX,Evolution,2243
 Thales,Silkkitie,43
-Thanks,68.48184020,9
 UGL_OZ,Agora,809
 Utopia,Agora,1054
 Utopia,Alphabay,376
@@ -5994,7 +5926,6 @@ THCXpert,Agora,2300
 TomFordd,Evolution,376
 TopNotch,Nucleus,41
 Triposss,Cloud Nine,29
-Tutorial,0.00685025,9
 Zanzibar,Hansa Market,520
 aidoneus,Outlaw,255
 alterego,Onion Market,15
@@ -6031,7 +5962,6 @@ methisto,Cloud Nine,22
 montfort,Evolution,3719
 moramaru,Agora,8578
 moramaru,Alphabay,1372
-no links,0.00496463,6
 nswgreat,Evolution,2965
 oxyCdope,Evolution,171
 paradogs,Onion Market,153
@@ -6048,7 +5978,6 @@ stayhigh,Valhalla,1973
 t3h_fonz,Nucleus,193
 t3h_fonz,Evolution,948
 tempxxxx,Alphabay,738
-tutorial,0.00461681,6
 ukbenzos,Hansa Market,504
 weed4you,Agora,1428
 weedshop,Middle Earth,682
@@ -6110,7 +6039,6 @@ NOCTURN4L,Evolution,479
 Need4Weed,Valhalla,99
 Orange696,Silkkitie,96
 OrangeInc,Agora,1003
-Pos codes,0.00470544,5
 Postimies,Valhalla,884
 QBusiness,Cloud Nine,272
 QKarunika,Evolution,153
@@ -6326,7 +6254,6 @@ mtgoxleaks,Evolution,65
 organismen,Evolution,290
 pharmastar,Nucleus,94
 powerplane,Dream,65
-qp shrooms,2.42208028,5
 randymarsh,Middle Earth,12622
 rhouya1485,Alphabay,264
 schwartzer,Evolution,66
@@ -6404,7 +6331,6 @@ Top_Gear_UK,Alphabay,110
 TrueMethods,Oxygen ,70
 Tukkumyyjä,Valhalla,1085
 Turtle Time,Cloud Nine,1116
-Valium 10mg,0.10135135,9
 Venom_Drugs,Silkkitie,39
 alpha-beast,Alphabay,2127
 amazonprime,Evolution,224
@@ -6600,7 +6526,6 @@ RaisingTheBar,Evolution,141
 Roman_Lapever,Valhalla,84
 SleekTheElite,Agora,1451
 SleekTheElite,Alphabay,273
-Straight FIRE,0.20692795,6
 Totoro-garden,Nucleus,74
 TravoltasCrew,Dream,1
 WestLovePower,Agora,394
@@ -6665,7 +6590,6 @@ Sugar-Mountain,Agora,221
 Sugar-Mountain,Alphabay,205
 Team-Nightmare,Nucleus,1953
 TheImportStore,Nucleus,466
-Tramadol 150mg,0.11360289,9
 bestaussiegear,Dream,145
 bestaussiegear,Middle Earth,14
 blackbobbailey,Agora,145
@@ -6793,7 +6717,6 @@ coffeeshop-online-DE,Alphabay,88
 savagehenryevolution,Abraxas,9
 AroundTheWorldTravels,Nucleus,1
 Dr.Prof.Med.Apotheker,Agora,598
-DEXTRO Methamphetamine,1.52805053,4
 TheRealFriendlyChemist,Nucleus,724
 Aoi,Alphabay,75
 ICQ,Alphabay,2571
@@ -6826,14 +6749,9 @@ cldc,Cloud Nine,8
 fake,Abraxas,75222
 hand,Alphabay,566
 inty,Pandora,819
-list,0.00455830,9
 love,Nucleus,1
 m3ko,Evolution,65
 nbc1,Onion Market,63
-soon,0.11207564,7
-soon,0.80850548,6
-soon,1.46060319,1
-soon,1.49682431,6
 sosa,Evolution,203
 styx,Hansa Market,96
 42BTC,Alphabay,26
@@ -6876,7 +6794,6 @@ Tbone,Cloud Nine,2687
 Trump,Evolution,104
 UKBTC,Agora,213
 USAmp,Nucleus,240
-Xanax,0.14549570,6
 Zorr0,Agora,78
 baidu,Alphabay,2229
 blub5,Nucleus,21
@@ -6895,8 +6812,6 @@ minkk,Dream,397
 moeee,Oxygen ,27
 molok,Valhalla,144
 zaswq,Evolution,145
-1750mg,1.04021772,8
-3500mg,2.07482125,6
 420swe,Agora,479
 Aracay,Agora,22584
 Bodega,Oasis ,96
@@ -6976,7 +6891,6 @@ weeduk,Oxygen ,14
 -BigBoy,Abraxas,287
 03welle,Silkkitie,72
 187ACAB,Oxygen ,228
-20 tabs,0.08555048,8
 2tracks,Evolution,225
 7Y91P17,Andromeda,1301
 99pptry,Alphabay,1154
@@ -7045,7 +6959,6 @@ chompie,Abraxas,8
 cokemob,Onion Market,6
 danHash,Agora,533
 deepbay,Valhalla,497
-digitfn,UnB0.jpg,13
 dimitry,Middle Earth,811
 dumpz12,Alphabay,16
 fairxtc,Alphabay,1306
@@ -7218,7 +7131,6 @@ theOCguy,Evolution,263
 theatrox,Alphabay,184
 ticktock,Cloud Nine,152
 tuffgong,Evolution,62
-tutorial,0.00705816,5
 xanaxman,Nucleus,50
 xgeneryk,Agora,50
 xxSNOWxx,Agora,1634
@@ -7230,8 +7142,6 @@ AlanaSh0p,Valhalla,319
 AlpraKing,Alphabay,3047
 Andigatel,Alphabay,907
 Articbuds,Alphabay,488
-As agreed,0.44463574,1
-As agreed,0.97191811,10
 Battalion,Nucleus,69
 BestSeeds,Dream,46
 BlackDuke,Evolution,4207
@@ -7342,7 +7252,6 @@ eurodrugs,Valhalla,1027
 fardown24,Alphabay,27
 farmacy41,Pandora,83
 fastbreak,Agora,889
-french vp,0.19148936,7
 fritz4000,Oxygen ,255
 greenhaus,Pandora,64
 hadherall,Agora,1922
@@ -7405,7 +7314,6 @@ Alcaponefr,Agora,184
 Alcaponefr,Alphabay,743
 Atheist666,Cloud Nine,11
 Behappy008,Agora,969
-Best Batch,0.70222633,4
 Betadvisor,Alphabay,416
 Bigdeal100,Abraxas,3931
 BlackTulip,Alphabay,3498
@@ -7575,7 +7483,6 @@ KingTeacher,Alphabay,1512
 KnockYouOut,Oxygen ,37
 Legit_stuff,Nucleus,171
 Longhorntxn,Alphabay,461
-MASTER KUSH,0.28103783,6
 MILITIAozRC,Oxygen ,120
 MartyMcHigh,Alphabay,1511
 MeyerLansky,Dream,70
@@ -7603,7 +7510,6 @@ The_weedman,Alphabay,100
 USA_Boomers,Agora,4
 VincentVega,Cloud Nine,54
 WhitePowder,Valhalla,186
-Will update,0.32848274,9
 WindowSmoke,Alphabay,90
 agrowthlabs,Evolution,2422
 alphabay315,Alphabay,14
@@ -7669,7 +7575,6 @@ tr0llfusion,Evolution,918
 wesellstuff,Cloud Nine,265
 worldofthed,Cloud Nine,474
 Aloha4Planet,Alphabay,88
-As discussed,35.72554700,6
 BagsOnBagsUK,Oxygen ,69
 BenzoBelinda,Alphabay,467
 BloodDiamond,Evolution,369
@@ -7742,7 +7647,6 @@ Tondrogrower,Dream,16
 Trippikauppa,Silkkitie,2101
 UGL_Domestic,Agora,1073
 VIPSeller101,Evolution,66
-Valium Roche,0.15147053,9
 YourSupplier,Alphabay,35
 alwaysbesafe,Alphabay,640
 americantest,Dream,22
@@ -7789,7 +7693,6 @@ superdrugsoz,Agora,186
 timmytwotone,Nucleus,25
 usa-tramadol,Cloud Nine,160
 wolfofwallst,Cloud Nine,35
-2g Speedpaste,0.04175959,8
 AccessGranted,Alphabay,191
 AddiesAndXans,Agora,214
 AddiesAndXans,Alphabay,171
@@ -7965,7 +7868,6 @@ MarrakeshXpress,Agora,59
 OzzyDealsDirect,Evolution,150
 QualityProducts,Alphabay,1042
 SacredMushrooms,Alphabay,8
-Snoop vaporizer,0.13123824,5
 SouthsideCartel,Agora,324
 StealthPharmacy,Dream,60
 SuperStealthSam,Agora,94
@@ -8062,12 +7964,9 @@ Tron,Nucleus,133
 Xeth,Evolution,604
 YLBD,Evolution,2033
 cctv,Alphabay,474
-fire,1.28385298,4
 l0k1,Alphabay,224
 mb45,Alphabay,257
 rook,Pandora,331
-soon,0.19790580,9
-soon,1.62562173,9
 64naC,Alphabay,290
 AUSRU,Alphabay,156
 Arsyn,Cloud Nine,29
@@ -8134,7 +8033,6 @@ ucard,Evolution,360
 vibes,Evolution,7
 vossa,Abraxas,1
 yooha,Oxygen ,201
-1250mg,0.74387663,8
 60106g,Alphabay,60
 AceDoc,Evolution,617
 Azures,Alpaca,159
@@ -8180,7 +8078,6 @@ bennys,Valhalla,869
 bongos,Alphabay,944
 brulz8,Evolution,6293
 budget,Valhalla,3456
-custom,0.37247002,6
 drille,Alphabay,29
 ecsxre,Oxygen ,69
 eric24,Nucleus,10
@@ -8380,8 +8277,6 @@ TWIXBARZ,Evolution,1
 TacaocaT,Agora,12
 TeamWynn,Hansa Market,195
 TheMafia,Evolution,75
-Tutorial,0.00456788,9
-Tutorial,0.00477145,7
 Vintorez,Evolution,982
 WU-snake,Evolution,65
 XTC-Love,Abraxas,802
@@ -8451,15 +8346,12 @@ tomchong,Evolution,421
 topdeals,Agora,1141
 unit2015,Alphabay,3
 zenoword,Oxygen ,40
-2.5GR NLX,0.11821449,7
 ALaurizen,Valhalla,16128
 AddyQueen,Alphabay,710
 AmonBlack,Abraxas,889
 Amsterdam,Agora,578
 Anonyminc,Alphabay,234
 ArmsnAmmo,Nucleus,85
-As agreed,0.60021571,3
-As agreed,0.67024854,10
 BCBUDKING,Silkkitie,5
 BlazereFR,Nucleus,717
 BlueAmber,Evolution,180
@@ -8542,7 +8434,6 @@ Sweshroom,Pandora,874
 SwissMade,Alphabay,17
 TeamLotus,Agora,5346
 TeamLotus,Alphabay,2281
-Thank you,0.00463024,7
 TheWeRoll,Abraxas,137
 TrapHouse,Cloud Nine,90
 TustHak78,Evolution,1560
@@ -8873,7 +8764,6 @@ AbraKadabras,Nucleus,630
 AddamsFamily,Alphabay,1934
 AlexSosa-1KG,Abraxas,6
 Applestryder,Cloud Nine,241
-As discussed,37.27777663,9
 BendenHoward,Evolution,66
 BrazilSeedCo,Evolution,1368
 CasinoRoyale,Oasis ,283
@@ -9002,7 +8892,6 @@ SpreadingLove,Evolution,65
 StarDockGaLiX,Abraxas,71
 StealthBomber,Agora,7202
 StealthSweden,Andromeda,316
-Straight FIRE,0.21136287,5
 StudyingSteve,Agora,112
 StudyingSteve,Alphabay,31
 TheGreenHouse,Agora,777
@@ -9069,7 +8958,6 @@ RomaniaConnect,Evolution,70
 Rox-Anne-White,Agora,369
 Sugar-Mountain,Abraxas,85
 TheCrystalShip,Evolution,84
-Tramadol 150mg,0.10918797,6
 UltraViolet-Nu,Nucleus,302
 amsterdamdream,Dream,523
 amsterdamngood,Onion Market,275
@@ -9196,7 +9084,6 @@ SalivatingSalamander,Alphabay,166
 ThePrinceofAmsterdam,Dream,32
 WolleReierndesSauerM,Hansa Market,9
 deleted_0bb052a51041,Silkkitie,12
-DEXTRO Methamphetamine,1.46453712,7
 ea,Onion Market,438
 rs6,Alphabay,1686
 Eddy,Evolution,132
@@ -9220,14 +9107,10 @@ oase,Middle Earth,1921
 only,Valhalla,378
 only,Evolution,6369
 slow,Alphabay,1151
-soon,0.07599747,9
-soon,0.07649705,7
-soon,0.84265218,6
 vaas,Oxygen ,60
 xdoc,Nucleus,401
 xdoc,Valhalla,500
 xdoc,Evolution,499
-125mg,0.09209793,1
 420UK,Evolution,89
 Alpha,Cloud Nine,257
 Bacta,Oxygen ,4723
@@ -9257,7 +9140,6 @@ agmag,Agora,120
 celeb,Abraxas,2760
 cfheq,Alphabay,2
 ferus,Alphabay,236
-fot t,3.20021514,4
 iside,Onion Market,60
 jocja,Alphabay,65
 juice,Evolution,1210
@@ -9278,7 +9160,6 @@ veder,Cloud Nine,84
 vossa,Nucleus,127
 xxxll,Nucleus,577
 $cotty,Alphabay,149
-1000mg,0.67134094,8
 3r3b0s,Alphabay,232
 420Aus,Alphabay,97
 420GER,Oasis ,20
@@ -9570,9 +9451,6 @@ sniiper7,Alphabay,123
 spower82,Nucleus,53
 tex4days,Evolution,102
 tramapro,Silkkitie,183
-tutorial,0.00705025,9
-tutorial,0.00706880,5
-tutorial,0.01411831,5
 ukbenzos,Agora,309
 walkirie,Cloud Nine,80
 webcrwlr,Cloud Nine,531
@@ -9897,7 +9775,6 @@ Top_Gear_UK,Nucleus,2040
 UKmandyMAN1,Evolution,111
 Uncleshard1,Cloud Nine,151
 UnknownUser,Alphabay,5
-Valium 10mg,0.10227127,7
 Weedy-Agora,Abraxas,24
 WindowSmoke,Abraxas,106
 XXXPLOSIVEE,Agora,1710
@@ -10154,7 +10031,6 @@ TheHeissenberg,Evolution,2
 TheIndigoChild,Agora,1221
 TheWhiteShadow,Evolution,300
 ThegreenHouse2,Dream,72
-Tramadol 200mg,0.16137708,4
 bestWEEDseller,Pandora,127
 bestaussiegear,Abraxas,1112
 bestweedseller,Onion Market,30
@@ -10291,7 +10167,6 @@ ProDocz_ICQ_66191677,Alphabay,295
 germancannabiscollec,Alphabay,74
 PsychoactiveSolutions,Nucleus,38
 CPPROe-Discount-Licensing,Cloud Nine,400
-vY8Kng9FQy7FjDQA1S445LUnRQu9EnY9l7TIn3ne,0.11722450,1
 Mr,Andromeda,553
 -pK,Agora,76
 BCD,Nucleus,1380
@@ -10309,7 +10184,6 @@ MA76,Evolution,132
 Mike,Abraxas,3364
 Oase,Agora,3731
 Rigr,Alpaca,41
-Test,0.00660374,4
 UKMJ,Evolution,22
 USDA,Nucleus,10
 buht,Middle Earth,694
@@ -10325,8 +10199,6 @@ neth,Evolution,479
 p00t,Alphabay,788
 phil,Onion Market,139
 sier,Pandora,878
-soon,0.12865230,4
-soon,0.94799409,6
 tron,Andromeda,79
 zues,Silkkitie,80
 A1FBG,Evolution,14
@@ -10377,7 +10249,6 @@ tvman,Alphabay,1273
 tzzht,Agora,339
 wp462,Nucleus,140
 zx.88,Alphabay,182
-3500mg,1.96552767,8
 420swe,Nucleus,24
 AUmerc,Cloud Nine,160
 AgentQ,Alphabay,65
@@ -11036,7 +10907,6 @@ KwalityGear,Abraxas,375
 LilyLotusUK,Dream,9
 Londonherbs,Abraxas,14
 Luigi Vampa,Silkkitie,36
-MASTER KUSH,0.28539080,9
 MDMADEALERS,Pandora,47
 MagicLampCo,Hansa Market,229
 MarketMaker,Agora,463
@@ -11117,7 +10987,6 @@ youngfamily,Oxygen ,1386
 Always Fresh,Cloud Nine,63
 AmericanSubs,Nucleus,2500
 Anstivoung45,Evolution,244
-As discussed,39.67475303,4
 BINGFLAMINGO,Nucleus,370
 Boomboom5398,Nucleus,158
 COFFEESHOP24,Agora,943
@@ -11250,7 +11119,6 @@ TheCollective,Nucleus,34
 TheGoodfellas,Evolution,11
 TheLittleGuys,Nucleus,848
 TheTopDigital,Alphabay,1078
-Tramadol 50mg,0.06331518,9
 TravoltasCrew,Nucleus,1798
 VikingShrooms,Andromeda,79
 WestCoastCure,Agora,3034
@@ -11376,7 +11244,6 @@ Pollos_Hermanos,Cloud Nine,471
 SW_Psychedelics,Evolution,118
 ScorpionCocaine,Dream,7
 Smokey's_Finest,Alphabay,193
-Snoop vaporizer,0.11030112,10
 StealthPharmacy,Abraxas,1
 SuperStealthSam,Evolution,35
 TangerineDreamz,Outlaw,212
@@ -11501,9 +11368,6 @@ mb45,Evolution,90
 mike,Evolution,11794
 ozzy,Middle Earth,215
 pzm1,Evolution,113
-soon,0.18977499,6
-soon,0.44528647,7
-soon,0.52674778,6
 ATEAM,Nucleus,197
 Bisto,Agora,4425
 COLOR,Alphabay,64809
@@ -11530,7 +11394,6 @@ S.O.M,Alphabay,659
 Sacky,Oxygen ,136
 SiGGy,Agora,235
 Stece,Nucleus,10
-Xanax,0.14877877,6
 auscc,Oxygen ,87
 avonb,Middle Earth,519
 baino,Alphabay,9
@@ -11551,12 +11414,8 @@ pablo,Cloud Nine,352
 r-y-o,Cloud Nine,79
 s987l,Alphabay,352
 ser69,Alphabay,45
-speed,0.65202072,6
 wowza,Nucleus,31
  China,Agora,14766
-1g DAB,0.32746808,7
-3000mg,0.99672047,7
-33 pcs,4.03323385,6
 Anon87,Alphabay,1942
 Aracay,Oxygen ,69
 Archer,Alphabay,659
@@ -11801,8 +11660,6 @@ StarSeed,Oxygen ,192
 TearDuct,Cloud Nine,104
 Tom.Ford,Agora,168
 Tramapro,Dream,2
-Tutorial,0.00457582,9
-Tutorial,0.00462342,12
 UKFlakez,Alphabay,4
 Yourdrug,Alphabay,39
 abagnale,Alphabay,43
@@ -11859,7 +11716,6 @@ tim19777,Alphabay,4
 tomchong,Abraxas,1024
 topdeals,Onion Market,845
 transfer,Alphabay,130
-tutorial,0.01412562,5
 ukbenzos,Abraxas,618
 vipsmoke,Evolution,516
 wedabest,Alphabay,1187
@@ -12038,7 +11894,6 @@ Alexandrus,Agora,1074
 Apollonian,Agora,1092
 Apollonian,Alphabay,162
 AstroHaven,Agora,551
-BROWN KUSH,0.18945773,9
 BigLCartel,Agora,367
 BrainPower,Alphabay,5086
 Broomstick,Alphabay,189
@@ -12224,8 +12079,6 @@ TheHulkster,Agora,2147
 ThePharmacy,Hansa Market,443
 TheWizzards,Agora,562
 Top_Gear_UK,Cloud Nine,79
-Valium 10mg,0.09705597,6
-Valium 10mg,0.10772476,4
 Venom_Drugs,Abraxas,3
 Weed-nation,Alphabay,6
 bagofweeduk,Middle Earth,207
@@ -12335,7 +12188,6 @@ SprakleShack,Cloud Nine,315
 Steeplechase,Pandora,179
 Swissexports,Pandora,557
 Tryptaminded,Agora,88
-Valium Roche,0.14558395,6
 Zippypinhead,Oxygen ,15
 acres44homes,Nucleus,610
 adderallFAST,Agora,559
@@ -12391,7 +12243,6 @@ vobinatorEVO,Dream,1
 whitemagic82,Valhalla,270
 zeltasgarden,Onion Market,268
 zirbeldruese,Nucleus,698
-2g Speedpaste,0.05851933,1
 AMSTERDAMFLEX,Alphabay,21
 AUSSIEEXPRESS,Andromeda,237
 Ace_Of_Spades,Evolution,467
@@ -12535,7 +12386,6 @@ RingoDeathstarr,Agora,375
 Saint_Nic_Agora,Agora,594
 Scamazonrefunds,Alphabay,320
 ShootingGallery,Agora,638
-Snoop vaporizer,0.12624364,6
 StealthPharmacy,Nucleus,3828
 StrattonOakmont,Evolution,1083
 SuccessMachines,Alphabay,215
@@ -12628,7 +12478,6 @@ TheFloridaMushroomCo,Hansa Market,241
 deleted_ab1056d8b98b,Silkkitie,20
 DiscountedElectronics,Agora,16
 PharmacyFreshOxyExpress,Agora,111
-vY8Kng9FQy7FjDQA1S445LUnRQu9EnY9l7TIn3ne,0.12015049,6
 ATC,Alpaca,97
 MXE,Agora,25
 ODB,Nucleus,575
@@ -12662,15 +12511,8 @@ peta,Alphabay,5
 rd47,Onion Market,98
 rook,Evolution,2047
 skry,Hansa Market,65
-soon,0.08284496,7
-soon,0.11678189,7
-soon,0.25705976,8
-soon,0.78951524,2
-soon,0.84793143,7
-soon,1.55877495,6
 tuco,Nucleus,404
 v010,Nucleus,76
-weed,0.21374167,13
 xhv1,Cloud Nine,657
 ysme,Alphabay,188
 zues,Dream,42
@@ -12691,7 +12533,6 @@ SK-11,Evolution,230
 Tinse,Silkkitie,10
 Tyson,Valhalla,90
 X-Men,Evolution,480
-Xanax,0.10758472,4
 Yasuo,Nucleus,110
 bg737,Alphabay,198
 bleak,Evolution,684
@@ -12747,7 +12588,6 @@ batard,Alphabay,1219
 bichot,Dream,25
 btcthc,Outlaw,484
 buddys,Dream,33
-dihons,9y s,5
 dinohh,Oxygen ,128
 dwight,Evolution,136
 estate,Abraxas,1
@@ -12850,7 +12690,6 @@ mystic1,Oxygen ,29
 ogbryan,Alphabay,310
 passman,Middle Earth,9
 revenge,Agora,33
-sddasas,0.01020000,20
 shimmer,Valhalla,90
 soldier,Agora,3487
 starbuy,Abraxas,2800
@@ -12985,7 +12824,6 @@ snapback,Evolution,5474
 speedy_j,Valhalla,2595
 spinifex,Alphabay,73
 stayhigh,Silkkitie,165
-tutorial,0.00726647,5
 ukbenzos,Nucleus,470
 ukfruits,Middle Earth,1096
 wellness,Onion Market,20
@@ -13299,7 +13137,6 @@ JerryGarcia,Pandora,545
 Kakmonstret,Evolution,168
 Killa Fullz,Alphabay,136
 KwalityGear,Oxygen ,462
-Lemon Skunk,0.18525053,7
 LockandLoad,Agora,35
 MOfuknjonez,Agora,166
 Marvel-Labs,Abraxas,356
@@ -13479,7 +13316,6 @@ DrGreenFinger,Alphabay,341
 DragonEmperor,Evolution,21
 Entheogenesis,Nucleus,35
 Expressionist,Agora,16
-FREE SHIPPING,1.93551325,9
 GanjaMerchant,Cloud Nine,360
 GreenLeafLabs,Silkkitie,737
 GreenMachiner,Alphabay,2911
@@ -13585,7 +13421,6 @@ RichDadPoorDad,Agora,5334
 SexUnderTheSun,Evolution,1179
 SomeonewhoISme,Agora,1239
 Top-Shelf-Nugs,Agora,1506
-Tramadol 200mg,0.15147053,9
 TrickleDownInc,Abraxas,318
 UniqueTreesInc,Agora,166
 Walters Whites,Alphabay,235
@@ -13746,9 +13581,6 @@ gmbh,Nucleus,504
 gork,Agora,2609
 lexq,Cloud Nine,320
 post,Evolution,66
-soon,0.07335860,7
-soon,0.21038651,4
-soon,0.93424770,4
 stix,Dream,44
 vaas,Alphabay,1838
 void,Nucleus,86
@@ -13856,7 +13688,6 @@ budwax,Agora,1828
 budwax,Alphabay,4751
 buster,Alphabay,28
 canoxy,Nucleus,213
-custom,0.31575032,9
 deshal,Oxygen ,126
 eleven,Alphabay,2967
 emoner,Nucleus,221
@@ -14107,8 +13938,6 @@ theHindu,Agora,42
 thetwinz,Alphabay,598
 thoth777,Dream,20
 tomchong,Oxygen ,200
-tutorial,0.00471254,5
-tutorial,0.01385042,6
 13ertrude,Agora,63
 5starhigh,Agora,665
 AddyDaddy,Dream,22
@@ -14293,7 +14122,6 @@ Mutuafides,Alpaca,10
 Newtropics,Hansa Market,27
 NutzNBoltz,Nucleus,9
 Outpost420,Evolution,168
-PS4 Custom,0.60670383,7
 PelicanUSA,Alphabay,158
 Perception,Alphabay,809
 PharmaPhil,Nucleus,812
@@ -14569,7 +14397,6 @@ COPSWONTBUSTU,Dream,26
 ChristmasTime,Abraxas,170
 CosmicCheetah,Hansa Market,1010
 CzechAirlines,Nucleus,1444
-DDoS Tutorial,0.01290890,9
 Discreet-High,Valhalla,429
 DoctorFreedom,Abraxas,303
 DruggieKitten,Hansa Market,72
@@ -14598,7 +14425,6 @@ SecretGarden2,Alphabay,185
 ShadowScholar,Cloud Nine,80
 SliceOfHeaven,Evolution,14
 StarDockGaLiX,Dream,26
-Straight FIRE,0.76090632,7
 TheHumanSpore,Agora,71
 ThePartySquad,Alphabay,100
 TheRightStuff,Alphabay,98
@@ -14666,7 +14492,6 @@ TheDarkPhoenix,Nucleus,50
 ThePinkPanther,Abraxas,2053
 The_Goodfellas,Valhalla,51
 Thefairtraders,Nucleus,459
-Tramadol 100mg,0.08954842,7
 WilliamShatner,Dream,6
 alchemyAnarchy,Alphabay,5
 coastalconnect,Alphabay,9346
@@ -14721,7 +14546,6 @@ Xtremenutrition,Agora,1981
 Xtremenutrition,Alphabay,1683
 amsterdam-drugs,Valhalla,105
 calichronicking,Andromeda,79
-codiene sulfate,0.13006431,4
 erikoisapteekki,Silkkitie,791
 fastandsafe1234,Cloud Nine,130
 flyingdutchmann,Agora,880
@@ -14794,7 +14618,6 @@ CaliforniaGreenCross,Alphabay,2643
 TheWeedmanFromAbraxas,Nucleus,77
 the_bloke_on_the_corner,Agora,43
 Drugdealersclearinghouse,Agora,153
-vY8Kng9FQy7FjDQA1S445LUnRQu9EnY9l7TIn3ne,0.12104169,7
 FY,Pandora,349
 fy,Onion Market,212
 AMS,Nucleus,234
@@ -14817,14 +14640,11 @@ Sora,Evolution,236
 buht,Nucleus,1307
 casa,Alphabay,1573
 cd8n,Evolution,264
-fire,1.21871206,7
 jeko,Evolution,190
 rgnl,Valhalla,378
 rumi,Evolution,65
 s763,Andromeda,1790
 sier,Evolution,2835
-soon,0.08067769,4
-weed,0.56020000,13
 AJ111,Alphabay,66
 Ciroc,Alphabay,172
 Croix,Dream,40
@@ -14844,7 +14664,6 @@ Saxon,Cloud Nine,323
 Stone,Cloud Nine,31
 Tbone,Agora,6425
 Willi,Valhalla,160
-Xanax,0.10098035,9
 Zloid,Alphabay,4
 aldob,Alphabay,39
 baidu,Middle Earth,8
@@ -14914,7 +14733,6 @@ c63amg,Evolution,3291
 calico,Nucleus,12
 chevy2,Dream,39
 chopin,Evolution,115
-custom,0.40393228,4
 cyrius,Evolution,639
 elixer,Evolution,564
 eztest,Dream,135
@@ -15121,7 +14939,6 @@ ScanPost,Hansa Market,260
 Semizias,Evolution,128
 Synester,Nucleus,625
 Tehjamie,Evolution,1
-Tutorial,0.00472858,21
 UKFlakez,Valhalla,185
 VladdyRS,Pandora,232
 WHOAMIME,Evolution,12
@@ -15180,8 +14997,6 @@ swissrcs,Cloud Nine,96
 synaptic,Evolution,65
 thechick,Evolution,128
 thejokah,Alphabay,287
-tutorial,0.00574017,6
-tutorial,0.01413294,5
 uschecks,Cloud Nine,37
 vladdyrs,Onion Market,100
 1337h4x0r,Agora,35
@@ -15341,7 +15156,6 @@ AlCaponeA1,Dream,35
 AlwaysAnon,Evolution,38
 AsgardLabs,Alphabay,786
 BEANIE1379,Alphabay,172
-Best Batch,0.66708007,7
 BlackWorld,Evolution,315
 BlueViking,Agora,1078
 BudCentral,Agora,211
@@ -15864,7 +15678,6 @@ OsamaBinFraudin,Evolution,1540
 OverstockDOTtor,Alphabay,183
 PhishCollective,Agora,6
 SkyHighDelivery,Evolution,556
-Snoop vaporizer,0.13277254,10
 StaviTwoFingers,Cloud Nine,116
 TheUsualSuspect,Abraxas,1072
 WeekndAtBernies,Nucleus,263
@@ -15957,8 +15770,6 @@ HCL,Abraxas,5
 IMB,Nucleus,180
 Jks,Nucleus,553
 Lex,Agora,16
-ONe,S5/10/Lisot cyc0,1
-6.4g,2.80000000,11
 Aris,Alphabay,232
 Avon,Cloud Nine,326
 BUFU,Evolution,306
@@ -15983,11 +15794,6 @@ hesh,Onion Market,28
 ock1,Evolution,3724
 puma,Abraxas,952
 quac,Evolution,74
-soon,0.11116950,6
-soon,0.11605588,6
-soon,0.12736175,7
-soon,0.42446538,6
-soon,1.72823085,4
 srgr,Evolution,70
 styx,Oasis ,140
 zeus,Abraxas,347
@@ -16017,15 +15823,12 @@ Tomek,Cloud Nine,260
 Torso,Alphabay,873
 Vepyr,Evolution,403
 Vigil,Outlaw,49
-Xanax,0.09918585,6
-Xanax,0.16137708,4
 a6n89,Evolution,116
 bella,Nucleus,176
 brick,Abraxas,32
 eazye,Nucleus,646
 emily,Evolution,78
 erwox,Alphabay,63
-fot t,3.02260605,9
 getro,Agora,577
 gojos,Dream,36
 huslr,Silkkitie,47
@@ -16052,7 +15855,6 @@ Accur8,Evolution,305
 Althea,Agora,377
 Betty4,Pandora,107
 CB2013,Agora,3037
-CUSTOM,0.99990000,7
 Canada,Nucleus,2713
 CashCo,Alphabay,1608
 ClassB,Valhalla,459
@@ -16091,7 +15893,6 @@ azures,Silkkitie,54
 btcthc,Evolution,2590
 chevy2,Alphabay,1293
 clemca,Agora,34
-custom,0.36415988,6
 cyb010,Alphabay,148
 dito19,Cloud Nine,68
 drunky,Abraxas,4067
@@ -16292,7 +16093,6 @@ THCangel,Evolution,2
 TeeThree,Evolution,657
 TheVault,Abraxas,139
 Thefonze,Alphabay,1
-Tutorial,0.00455830,45
 UKPharma,Agora,1760
 Ukimport,Alphabay,111
 VincentT,Abraxas,155
@@ -16354,8 +16154,6 @@ quickfix,Cloud Nine,289
 roojuice,Onion Market,612
 skypeman,Cloud Nine,57
 software,Oxygen ,144
-spppeeed,0.79117947,9
-spppeeed,0.84238071,4
 stayhigh,Alphabay,818
 t3h_fonz,Agora,914
 theOCguy,Dream,2
@@ -16364,19 +16162,16 @@ tmcg1410,Oxygen ,25
 topdeals,Pandora,3036
 topwatch,Nucleus,36
 tramadol,Evolution,69
-tutorial,0.00692521,12
 wakawaka,Hansa Market,605
 wizeguy5,Agora,20
 y-s-id-v,Nucleus,240
 yuff67r6,Abraxas,24
 010manolo,Agora,478
-4mg xanax,0.03381039,6
 AfterShop,Nucleus,1237
 AfterShop,Valhalla,1912
 AlanSugar,Evolution,105
 Alice4you,Alphabay,406
 AlphaBitz,Alphabay,46
-As agreed,0.50823609,4
 BG-Farmer,Alphabay,1731
 Battalion,Evolution,130
 Beachside,Evolution,1909
@@ -16484,7 +16279,6 @@ eurodrugs,Dream,141
 ggmccloud,Oxygen ,138
 goatsmith,Cloud Nine,138
 goldDUMPS,Alphabay,407
-good coke,0.42146335,6
 hobinrood,Middle Earth,8
 hypnotoad,Nucleus,1027
 jakezhang,Alphabay,356
@@ -16537,7 +16331,6 @@ AlCaponeA1,Alphabay,364
 AlphaBeast,Abraxas,195
 AtomicLove,Abraxas,36
 AtomicaLab,Alphabay,1
-BROWN KUSH,0.22812111,6
 Batchelors,Agora,141
 Bezt_Pillz,Agora,57
 BigBullion,Abraxas,1848
@@ -16731,8 +16524,6 @@ LotusReborn,Agora,70
 Morphmaster,Nucleus,537
 NativeChief,Pandora,307
 NetSupplier,Abraxas,9
-ORANGE HAZE,0.35858927,9
-ORANGE HAZE,0.38306023,7
 PasilanMies,Silkkitie,48
 QualityKing,Evolution,128
 RC4Everyone,Evolution,319
@@ -16933,7 +16724,6 @@ TheHumanSpore,Abraxas,4
 TheResistance,Pandora,421
 TheRightStuff,Abraxas,22
 Thefairtrader,Agora,7194
-Tramadol 50mg,0.06732798,4
 Twice_As_Nice,Agora,189
 Youroldfriend,Valhalla,75
 alfonsesimone,Alphabay,675
@@ -16998,7 +16788,6 @@ StarburstCandy,Agora,555
 StarburstCandy,Alphabay,18
 Studying_Steve,Abraxas,26
 TheRosinMaster,Hansa Market,183
-Tramadol 200mg,0.15351158,7
 WeirdUncleCarl,Dream,7
 XZirbeldrueseX,Dream,5
 YellowCaseCoca,Evolution,4
@@ -17093,7 +16882,6 @@ BurnedOutMethCook,Cloud Nine,6
 Dr_Mephistopheles,Agora,540
 GoodieGumDropShop,Agora,1048
 OrderOfThePhoenix,Agora,144
-Promethazine 25mg,0.21120608,9
 aussieimportpills,Abraxas,181
 bulldogcoffeeshop,Alphabay,852
 dealsthatarereal3,Alphabay,146
@@ -17139,8 +16927,6 @@ mare,Hansa Market,256
 ncbb,Onion Market,12
 rd47,Pandora,456
 sier,Cloud Nine,720
-soon,0.07911746,9
-soon,0.08426564,4
 soup,Cloud Nine,80
 trip,Evolution,645
 zphc,Evolution,368
@@ -17188,8 +16974,6 @@ santa,Evolution,1082
 sigon,Abraxas,13
 sky88,Valhalla,25
 ukxtc,Middle Earth,126
-1000mg,0.58871224,1
-1g DAB,0.32430533,9
 4favre,Alphabay,1188
 A-team,Valhalla,194
 Area51,Nucleus,167
@@ -17408,7 +17192,6 @@ TheJoker,Agora,53
 TheVault,Nucleus,183
 TheVault,Valhalla,48
 TrapLife,Evolution,133
-Tutorial,0.00712420,7
 VincentT,Nucleus,724
 Wapen100,Alphabay,1
 aVBQKQA8,Nucleus,207
@@ -17437,7 +17220,6 @@ maling47,Nucleus,132
 maling47,Valhalla,101
 medibank,Middle Earth,21
 mrfreaky,Cloud Nine,1280
-no links,0.00554017,6
 parpalea,Oxygen ,69
 philcoke,Onion Market,8
 proficio,Valhalla,360
@@ -17455,8 +17237,6 @@ teamVOID,Dream,10
 theOCguy,Agora,79
 tomchong,Middle Earth,457
 tramapro,Oxygen ,116
-tutorial,0.00793296,7
-tutorial,0.01884393,5
 uptown11,Nucleus,116
 vProdigy,Alphabay,61
 waathaef,Cloud Nine,14
@@ -17536,7 +17316,6 @@ crackhaed,Alphabay,370
 crossfire,Agora,336
 cyanspore,Agora,102
 cyanspore,Alphabay,121
-dched ant,0.h7foa6afVylehrinl atagsolu,6
 defendyou,Dream,24
 delicious,Nucleus,360
 derriese5,Agora,2070
@@ -17759,7 +17538,6 @@ KALmcginney,Alphabay,675
 KeepItClean,Evolution,61
 KingOfDrugs,Dream,57
 KwalityGear,Alphabay,4340
-Lemon Skunk,0.06230530,7
 ListNotLost,Dream,32
 Lostgift912,Alphabay,410
 MindWeather,Alphabay,93
@@ -17891,7 +17669,6 @@ TheDarkHorse,Alphabay,2
 TheGearHouse,Abraxas,14
 TheMuffinMan,Abraxas,63
 TheSaltonSea,Valhalla,300
-Valium Roche,0.16137708,4
 WesternUnion,Nucleus,10
 Zornröschen,Abraxas,15
 blackmajik01,Alphabay,1902
@@ -17993,7 +17770,6 @@ TheResistance,Alphabay,3121
 TheRightStuff,Nucleus,295
 TheRightStuff,Valhalla,140
 TorCollective,Evolution,291
-Tramadol 50mg,0.06065998,6
 WeedSensation,Dream,9
 WeedyGonzales,Nucleus,25
 adfork3yc4rds,Evolution,119
@@ -18058,8 +17834,6 @@ StealthMasters,Alphabay,7
 TheBestConnect,Dream,38
 TheImportStore,Andromeda,46
 Theonlydumpman,Evolution,41
-Tramadol 150mg,0.12103281,4
-Tramadol 200mg,0.14558395,6
 VoucherExpress,Agora,434
 WilliamShatner,Abraxas,29
 Wishahawkin999,Nucleus,90
@@ -18185,7 +17959,6 @@ TheWanderingSalesman,Alphabay,16
 greenfingerscuttings,Alphabay,279
 _Just_Another_Vendor_,Cloud Nine,36
 LittleTreesConfections,Agora,76
-vY8Kng9FQy7FjDQA1S445LUnRQu9EnY9l7TIn3ne,0.13311819,8
 BV,Pandora,21
 bv,Onion Market,16
 oi,Cloud Nine,32
@@ -18214,9 +17987,7 @@ jokr,Evolution,75
 melx,Nucleus,316
 raz_,Evolution,410
 sido,Alphabay,125
-soon,0.07602191,6
 xdoc,Dream,16
-125mg,0.09474391,8
 Atmel,Agora,2085
 Dr.Ez,Agora,1056
 Drjay,Evolution,264
@@ -18258,7 +18029,6 @@ noogz,Alphabay,715
 nzt48,Evolution,565
 omooq,Abraxas,4
 peduk,Alphabay,540
-pound,6.80243187,7
 rdblu,Alphabay,52
 ritex,Evolution,130
 ucard,Agora,329
@@ -18321,7 +18091,6 @@ benuts,Alphabay,591
 brulz8,Agora,799
 coco09,Agora,72
 credit,Alphabay,29
-custom,0.37887632,9
 d3xt3r,Cloud Nine,32
 deshal,Alphabay,325
 drdabs,Evolution,67
@@ -18584,12 +18353,10 @@ tomchong,Alphabay,601
 torcards,Nucleus,6
 tramapro,Oasis ,117
 turnpike,Valhalla,167
-tutorial,0.01885014,5
 uglyduck,Evolution,1224
 ulfberht,Evolution,365
 wcjunhua,Alphabay,252
 -OneKing-,Alphabay,3391
-4mg xanax,0.03536994,9
 Account33,Oxygen ,180
 Alakhazam,Nucleus,33
 Albatraoz,Nucleus,1254
@@ -18666,7 +18433,6 @@ Spacecake,Cloud Nine,159
 Stocktown,Valhalla,271
 SuperHigh,Alphabay,27
 TarNation,Evolution,261
-Thank you,0.02076362,7
 TheWeRoll,Nucleus,116
 TustHak78,Agora,642
 UKGrowers,Agora,253
@@ -18892,7 +18658,6 @@ GermanDrugs,Alphabay,42
 HEIZZENBERG,Agora,3041
 HyvääOloa,Valhalla,367
 LustigPeter,Pandora,690
-MASTER KUSH,0.30379145,4
 Mandrax4all,Evolution,551
 Marketmaker,Nucleus,9
 Marvel-Labs,Dream,136
@@ -18911,7 +18676,6 @@ Pixiedust88,Alphabay,16
 RitalinGirl,Alphabay,399
 RosesGarden,Agora,5157
 S70NED4EV12,Oxygen ,33
-SOUR DIESEL,0.65120578,9
 SatoshiShop,Agora,1798
 Scattermind,Evolution,640
 Skellington,Cloud Nine,160
@@ -19096,7 +18860,6 @@ COPSWONTBUSTU,Nucleus,483
 CanadianLines,Nucleus,156
 Casino-Royale,Oasis ,18
 CosmicGypsies,Cloud Nine,95
-DDoS Tutorial,0.01307084,7
 DMT-lovestore,Alphabay,1400
 DigitalDealer,Alphabay,5544
 DonDraper2014,Cloud Nine,160
@@ -19235,7 +18998,6 @@ JustForResearch,Nucleus,1516
 LDN-UNDERGROUND,Evolution,1002
 MyPrivateGarden,Dream,14
 NorthPoleCartel,Valhalla,56
-Snoop vaporizer,0.11098025,6
 SupplyAndDemand,Abraxas,255
 Swiss24hService,Evolution,28
 Tweakin_Rugrats,Nucleus,302
@@ -19290,7 +19052,6 @@ Downtherabbithole,Alphabay,397
 Dr.Med.Prof.Chill,Agora,40
 DutchConnectionUK,Nucleus,6
 GardenTheBlossoms,Valhalla,78
-Promethazine 25mg,0.22458630,4
 TheBakeryOfficial,Nucleus,249
 TheIntoxicologist,Nucleus,107
 The_Urban_Shamans,Silkkitie,1080
@@ -19362,14 +19123,8 @@ iori,Oasis ,4095
 n0de,Evolution,14
 only,Agora,27201
 slza,Alphabay,14
-soon,0.08233029,6
-soon,0.43013396,6
-soon,0.46148543,9
-soon,0.81930277,6
 sw4g,Evolution,2624
 topq,Alphabay,68
-weed,0.20196748,6
-weed,0.67631042,6
 xdoc,Agora,2752
 Crook,Alphabay,11
 Faded,Agora,433
@@ -19391,12 +19146,10 @@ Siunz,Nucleus,22
 TF141,Oxygen ,47
 TS420,Nucleus,2646
 XMAN1,Evolution,958
-Xanax,0.15147053,9
 allin,Alpaca,73
 bisto,Nucleus,1318
 bluer,Alphabay,245
 e133t,Alphabay,219
-fot t,2.88846636,6
 gooch,Alphabay,312
 hedon,Abraxas,9
 josef,Nucleus,1675
@@ -19404,7 +19157,6 @@ linus,Onion Market,207
 nomad,Evolution,294
 omooq,Nucleus,77
 piblz,Nucleus,1823
-pound,6.72212419,9
 pure1,Oasis ,153
 rc4me,Nucleus,28464
 soF90,Hansa Market,64
@@ -19413,7 +19165,6 @@ tesla,Evolution,1612
 ts420,Middle Earth,1
 wifey,Agora,43
 zohar,Agora,184
-1500mg,0.89507106,8
 3gents,Agora,1073
 AMPIRE,Alphabay,2
 Amazon,Agora,126
@@ -19456,7 +19207,6 @@ blackj,Evolution,144
 chosek,Dream,75
 cocky1,Alphabay,784
 cooked,Pandora,109
-custom,0.31070758,6
 dotcom,Alphabay,106
 eurorx,Middle Earth,137
 famont,Dream,6
@@ -19491,8 +19241,6 @@ xinhai,Middle Earth,209
 03welle,Agora,3217
 03welle,Alphabay,3616
 176-761,Silkkitie,185
-20 tabs,0.07054497,10
-20 tabs,0.07415270,6
 A1CRACK,Abraxas,127
 Acer007,Agora,25
 AddyLad,Evolution,28
@@ -19659,7 +19407,6 @@ TeenWolf,Alphabay,678
 TheVault,Oasis ,53
 TheVault,Cloud Nine,280
 The_Pr03,Evolution,1994
-Tutorial,0.00573940,6
 TysonSWE,Alphabay,2
 UKFruits,Oasis ,212
 UK_Rails,Alphabay,1662
@@ -19717,7 +19464,6 @@ stefandl,Pandora,1581
 stefandl,Middle Earth,9633
 theHIndu,Silkkitie,23
 topnotch,Evolution,916
-tutorial,0.00573940,6
 unelinel,Agora,553
 vendor55,Alphabay,31
 wakawaka,Alphabay,953
@@ -19732,7 +19478,6 @@ yourdrug,Middle Earth,39
 Aintmyjob,Evolution,130
 AlphaMind,Alphabay,46
 Andromeda,Andromeda,147
-As agreed,0.47610071,6
 Aventador,Alphabay,969
 BESTDRUGS,Nucleus,330
 BG-Farmer,Valhalla,800
@@ -19785,7 +19530,6 @@ Panoramix,Evolution,377
 Papashoto,Evolution,343
 Pasitheas,Alphabay,4
 Police™,Alphabay,480
-Pos codes,0.00461681,6
 Pullbear1,Alphabay,493
 QualityUK,Cloud Nine,79
 Ritakinet,Evolution,132
@@ -19882,7 +19626,6 @@ Amnesias26,Evolution,378
 Ausstuffzz,Silkkitie,40
 BayConnect,Alphabay,550
 Bernadotte,Agora,133
-Best Batch,0.63207480,6
 Betadvisor,Valhalla,874
 BlueLagoon,Alpaca,115
 BudsNRoses,Agora,3668
@@ -20298,7 +20041,6 @@ dolejuicemeds,Evolution,225
 domesticdoode,Middle Earth,1682
 emeraldgemini,Silkkitie,72
 fatherxmasice,Alphabay,315
-full tutorial,0.00948857,7
 ganjadownunda,Dream,40
 gimmedatmoney,Alphabay,169
 goodguydealer,Evolution,791
@@ -20405,7 +20147,6 @@ Mictlantecuhtli,Alphabay,93
 PaPescuMikaCiro,Alphabay,155
 Praetorian-MDMA,Evolution,287
 Rumpelstiltskin,Agora,1235
-Snoop vaporizer,0.12831578,6
 SouthsideCartel,Nucleus,726
 SouthsideCartel,Evolution,24
 TripWithScience,Silkkitie,5
@@ -20414,7 +20155,6 @@ William_Shatner,Nucleus,1285
 bigGreenMachine,Alphabay,509
 bigactionman007,Valhalla,108
 cccamsuperdeals,Evolution,70
-codiene sulfate,0.12031763,6
 costcowholesale,Hansa Market,120
 crookscastle710,Evolution,351
 dutchdutchdutch,Alphabay,30
@@ -20501,13 +20241,11 @@ Kino,Agora,70
 Neah,Evolution,130
 Shop,Nucleus,678
 enki,Outlaw,2773
-fire,1.20772013,9
 hesh,Pandora,176
 lest,Nucleus,369
 mm90,Alphabay,142
 rx4u,Alphabay,4
 shaz,Onion Market,67
-soon,0.53004741,7
 stix,Oasis ,114
 uzar,Evolution,146
 A1FBG,Agora,6
@@ -20602,7 +20340,6 @@ chosek,Alphabay,3080
 drpill,Alphabay,2323
 dupont,Evolution,143
 eric25,Nucleus,52
-extase,0.54497220,6
 eztest,Oxygen ,3726
 fr13nd,Hansa Market,8
 gregor,Hansa Market,192
@@ -20797,7 +20534,6 @@ SnakeOil,Evolution,149
 SubTrain,Cloud Nine,75
 SweetTHC,Oxygen ,9
 TapatiOO,Alphabay,14
-Tutorial,0.00474428,7
 UsedRugs,Cloud Nine,54
 Visuaali,Valhalla,398
 Warbeast,Agora,171
@@ -20847,7 +20583,6 @@ mezzolin,Evolution,94
 mrfields,Dream,58
 mrwhippy,Onion Market,394
 msrt5mp2,Dream,3
-no links,0.00506671,5
 nykron78,Evolution,424
 paloalto,Evolution,1011
 playdark,Evolution,195
@@ -20862,14 +20597,9 @@ steamore,Nucleus,485
 swissrcs,Alpaca,30
 thesteal,Evolution,17
 topdrugs,Onion Market,40
-tutorial,0.00474608,7
-tutorial,0.00584732,5
-tutorial,0.00782534,9
-tutorial,0.01384850,12
 vegas702,Agora,201
 webdrugs,Alphabay,1452
 zazaza13,Alphabay,159
-4mg xanax,0.03752581,4
 ASAPmolly,Valhalla,204
 Abrazolam,Oxygen ,669
 Agrimonia,Alphabay,39
@@ -20878,7 +20608,6 @@ AlfaOmega,Agora,619
 AlphaMale,Alphabay,1007
 AngelEyes,Agora,1964
 Annie_Ann,Agora,211
-As agreed,0.68966118,4
 Atariheld,Evolution,67
 AussieBud,Abraxas,304
 BeHereNow,Agora,26
@@ -20946,7 +20675,6 @@ Shroomson,Valhalla,794
 Smoketime,Hansa Market,3434
 SpeedBall,Valhalla,321
 TeamLotus,Evolution,1110
-Thank you,0.00486138,8
 TheBarman,Cloud Nine,158
 TheCowboy,Dream,42
 Theiceman,Cloud Nine,123
@@ -21222,7 +20950,6 @@ LAMBORGHINI,Dream,677
 MEGA_PHARMA,Evolution,1023
 MedizinMann,Evolution,605
 MisterSaxon,Alphabay,221
-ORANGE HAZE,0.23409236,7
 OneStopShop,Nucleus,968
 PaulReubens,Dream,15
 Pharma-deal,Silkkitie,975
@@ -21352,7 +21079,6 @@ The_Greenest,Abraxas,6
 TinFoilSocks,Nucleus,200
 Tony_Montana,Agora,123
 Tor420Market,Oxygen ,384
-bank account,2.90447509,6
 candystoreNL,Dream,35
 cannabisking,Andromeda,552
 coasttocoast,Abraxas,473
@@ -21555,8 +21281,6 @@ PillspillsPills,Pandora,174
 PrivateHighClub,Agora,337
 RefreshYourself,Evolution,855
 SW_Psychedelics,Agora,48
-Snoop vaporizer,0.12944439,6
-Snoop vaporizer,0.14017760,4
 StealthPharmacy,Valhalla,1743
 StealthPharmacy,Evolution,2351
 TheBestCannabis,Evolution,1618
@@ -21604,7 +21328,6 @@ AUSKING-AUSTRALIA,Abraxas,508
 CaptainSlapDatHoe,Alphabay,203
 GoodieGumDropShop,Oxygen ,9
 Laavalamppulehmä,Valhalla,412
-Promethazine 25mg,0.21295690,7
 SmokeScandinavian,Cloud Nine,32
 ThegoodNeighbours,Hansa Market,192
 domestic-pharmacy,Nucleus,450
@@ -21628,7 +21351,6 @@ booksellershadowing9,Alphabay,3712
 echoes_from_the_void,Alphabay,338
 emeraldgemini-vendor,Cloud Nine,110
 real pharmaceuticals,Nucleus,1063
-vY8Kng9FQy7FjDQA1S445LUnRQu9EnY9l7TIn3ne,0.12621648,7
 OG,Abraxas,2
  UK,Agora,280
 EUM,Valhalla,93
@@ -21648,7 +21370,6 @@ Syt3,Evolution,66
 VGer,Agora,684
 YAYO,Agora,507
 asap,Nucleus,306
-coke,0.75844976,6
 emc2,Cloud Nine,59
 hebo,Alphabay,406
 j0dy,Hansa Market,555
@@ -21657,10 +21378,6 @@ mijo,Nucleus,66
 puma,Middle Earth,1960
 rgnl,Hansa Market,129
 sion,Nucleus,36
-soon,0.07105637,1
-soon,0.12651877,6
-soon,0.19096297,7
-soon,1.56854181,7
 viru,Alphabay,84
 xdoc,Abraxas,10
 .hood,Alphabay,150
@@ -21695,7 +21412,6 @@ asius,Evolution,358
 bouli,Evolution,757
 clear,Evolution,877
 color,Hansa Market,32474
-dream,8.27232494,6
 druid,Oxygen ,21
 drxtc,Evolution,130
 elvis,Onion Market,68
@@ -21721,8 +21437,6 @@ xedov,Agora,609
 xqvz4,Cloud Nine,10
 zeroz,Alphabay,232
 0zgrow,Onion Market,108
-2grams,1.17931660,8
-3g BHO,0.38000000,19
 AMIGOS,Agora,9
 Addies,Agora,312
 AgMilk,Evolution,408
@@ -21970,7 +21684,6 @@ TheShift,Evolution,6
 TheTwinz,Evolution,303
 The_BOME,Cloud Nine,979
 Trackers,Cloud Nine,222
-Tutorial,0.00473754,14
 UKFlakez,Silkkitie,92
 UKsupply,Evolution,34
 UKvalium,Alphabay,25
@@ -22032,7 +21745,6 @@ swissrcs,Evolution,1657
 tariclea,Nucleus,50
 tomchong,Nucleus,935
 tomchong,Valhalla,857
-tutorial,0.01846722,6
 twixbarz,Nucleus,457
 wakawaka,Abraxas,193
 weed4you,Abraxas,63
@@ -22040,9 +21752,7 @@ wjoifjeo,Hansa Market,6
 x3msmoke,Evolution,66
 +holland+,Alphabay,582
 -bangbros,Middle Earth,30
-4mg xanax,0.03579981,7
 AmicoFriz,Agora,2705
-As agreed,0.54114182,7
 Baron-JOY,Evolution,83
 BlockKids,Alphabay,2449
 BobArctor,Alphabay,642
@@ -22180,7 +21890,6 @@ xMonsterx,Alphabay,2
 420KING420,Evolution,353
 AlphaBeast,Dream,42
 BCTomJones,Alphabay,567
-Best Batch,0.66015101,9
 BigMuscles,Alphabay,594
 BlackPixel,Cloud Nine,10
 Brightmoor,Cloud Nine,85
@@ -22475,7 +22184,6 @@ TevaAdderall,Cloud Nine,47
 ThePowderGuy,Evolution,1810
 Theneworders,Haven,31
 Trip_Advisor,Agora,483
-Valium Roche,0.14877877,6
 Walterwhite1,Silkkitie,16
 WinstonWolfe,Cloud Nine,318
 ash_williams,Dream,18
@@ -22543,7 +22251,6 @@ DutchDynamite,Dream,138
 Dutchwindmill,Abraxas,8
 Erich.Hartman,Alphabay,273
 EskimoExpress,Alphabay,698
-FREE SHIPPING,2.05671700,4
 FirstClassFix,Evolution,76
 General_Store,Agora,920
 Green Lantern,Nucleus,671
@@ -22727,8 +22434,6 @@ therealstarlight,Pandora,244
 undergroundkings,Middle Earth,135
 CertifiedWiseGuyz,Agora,252
 CertifiedWiseGuyz,Alphabay,103
-Fatburner Booster,0.12059392,6
-Pineapple Express,0.20572503,7
 RaymondReddington,Alphabay,3276
 Sjappa_pa_hjornet,Agora,139
 TemplatesAndFakes,Abraxas,36
