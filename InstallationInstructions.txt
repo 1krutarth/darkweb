@@ -1,0 +1,62 @@
+In order to create an AMI, perform following steps.
+
+A. Creating an instance
+	1. Click on Launch Instance on EC2
+	2. Choose AMI - Ubuntu Server 14.04 LTS
+	3. Choose Instance Type - General Purpose m4.large
+	4. Configure Instance Details - 4
+	5. Add Storage - 100GB
+	6. Tag Instance - Key: Name and Value: HadpInstance
+	7. Configure Security Group - Add following rules
+
+		Type		Protocol		Port Range			Source
+		------------------------------------------------------
+		All TCP		TCP				0 - 65535			0.0.0.0/0
+		All ICMP	ICMP			0 - 65535			0.0.0.0/0
+		SSH			TCP				22					0.0.0.0/0
+
+	8. Launch
+	9. It will ask your .pem file. Please select the one that you have.
+
+B. SSH into the instance
+Command: ssh -i <your-pem-file.pem> ubuntu@<instance-public-dns>
+Type 'yes' upon host verification prompt.
+
+Once you ssh into the instance, execute following commands.
+	1. sudo apt-get update
+	
+	### This will install java-8-oracle
+	2. sudo add-apt-repository ppa:webupd8team/java -y
+	3. sudo apt-get update
+	4. sudo apt-get install oracle-java8-installer
+	5. sudo apt-get install oracle-java8-set-default
+
+	### Install Hadoop 2.7.3 (latest stable version)
+	6. wget http://apache.mirrors.tds.net/hadoop/common/hadoop-2.7.3/hadoop-2.7.3.tar.gz -P ~/Downloads
+	7. sudo tar zxvf ~/Downloads/hadoop-* -C /usr/local
+	8. sudo mv /usr/local/hadoop-* /usr/local/hadoop
+
+	### Update environment variables
+	9. nano ~/.profile (Paste below lines in this file - remove any indentation)
+		export JAVA_HOME=/usr/lib/jvm/java-8-oracle
+		export PATH=$PATH:$JAVA_HOME/bin
+		export HADOOP_HOME=/usr/local/hadoop
+		export PATH=$PATH:$HADOOP_HOME/bin
+		export HADOOP_CONF_DIR=/usr/local/hadoop/etc/hadoop
+	10. . ~/.profile
+
+	## Install Pig 0.15.0
+	11. wget http://mirror.symnds.com/software/Apache/pig/pig-0.15.0/pig-0.15.0.tar.gz
+	12. tar xvzf pig-0.15.0.tar.gz
+	13. mv pig-0.15.0 pig
+
+	14. nano ~/.bashrc
+	15. export PATH=$PATH:/home/ubuntu/pig/bin
+	16. . ~/.bashrc
+
+`pig -version`
+
+Checklist - these commands shall give version of software installed!
+	1. java -version
+	2. hadoop version
+	3. pig -version

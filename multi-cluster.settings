@@ -1,0 +1,175 @@
+Before moving forward with running MapReduce program on the instances, let create Namenode and Datanodes.
+
+
+A. Creating instances
+	1. Click on 'Launch Instance'
+	2. Choose AMI - Under 'My AMIs', select the AMI you created before.
+	3. Choose Instance Type - t2.large
+	4. Configure Instance details - Number of Instance : 4
+	5. Add storage -  25 GB
+	6. Tag Instance - Key: Name; Value: nodes
+	7. Configure Security Group: 
+
+		Type		Protocol		Port Range			Source
+		------------------------------------------------------
+		All TCP		TCP				0 - 65535			0.0.0.0/0
+		All ICMP	ICMP			0 - 65535			0.0.0.0/0
+		SSH			TCP				22					0.0.0.0/0
+
+	8. Review and Launch
+	9. While the instances are being created, change the name of instances (see the pen next to instance name while hovering on it).
+	10. Change names to master, slave 1, slave 2, and slave 3.
+	11. Note down public dns of all the nodes.
+	12. Keep your .pem file handy. (If you haven't changed permissions of your pem file execute: chmod 400 <your-pem-file>.pem)
+
+B. Configuring the nodes
+	1. Open five terminal windows/tabs. One will be for local, others will be for master and three slaves
+	2. SSH into all the nodes: ssh -i <your-pem-file>.pem ubuntu@<public-dns> in different windows/tabs
+	3. Follow below configuration instruction:
+
+		### Local machine
+		a. nano ~/.ssh/config (Enter public dns at appropriate places - keep rest of the things same.)
+			Host namenode
+			  HostName namenode_public_dns
+			  User ubuntu
+			  IdentityFile ~/.ssh/pem_key_filename
+			Host datanode1
+			  HostName datanode1_public_dns
+			  User ubuntu
+			  IdentityFile ~/.ssh/pem_key_filename
+			Host datanode2
+			  HostName datanode2_public_dns
+			  User ubuntu
+			  IdentityFile ~/.ssh/pem_key_filename
+			Host datanode3
+			  HostName datanode3_public_dns
+			  User ubuntu
+			  IdentityFile ~/.ssh/pem_key_filename
+
+		b. Now lets transfer private key and config file(above) on master node.
+		scp -i <your-pem-file>.pem <your-pem-file>.pem ~/.ssh/config ubuntu@<master_dns>:~/.ssh
+
+		### namenode OR master node (Take care of quotes)
+		c. ssh-keygen -f ~/.ssh/id_rsa -t rsa -P ""
+		d. cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
+		e. cat ~/.ssh/id_rsa.pub | ssh datanode1 'cat >> ~/.ssh/authorized_keys'
+		f. cat ~/.ssh/id_rsa.pub | ssh datanode2 'cat >> ~/.ssh/authorized_keys'
+		g. cat ~/.ssh/id_rsa.pub | ssh datanode3 'cat >> ~/.ssh/authorized_keys'
+		h. Type 'yes' upon authenticating hosts
+
+
+		### Common configuration for all nodes: master + 3 slaves
+		Instruction: Remove any indentation. Replace 'namenode_public_dns' with master's public dns.
+		
+		i. sudo nano $HADOOP_CONF_DIR/hadoop-env.sh
+				export JAVA_HOME=/usr/lib/jvm/java-8-oracle
+
+		j. sudo nano $HADOOP_CONF_DIR/core-site.xml
+				<configuration>
+					<property>
+				    	<name>fs.defaultFS</name>
+				    	<value>hdfs://namenode_public_dns:9000</value>
+					</property>
+				</configuration>
+
+  		k. sudo nano $HADOOP_CONF_DIR/yarn-site.xml
+		  		<configuration>
+				<! — Site specific YARN configuration properties →
+					<property>
+				    	<name>yarn.nodemanager.aux-services</name>
+				    	<value>mapreduce_shuffle</value>
+				  	</property> 
+				  	<property>
+				    	<name>yarn.nodemanager.aux-services.mapreduce.shuffle.class</name>
+				    	<value>org.apache.hadoop.mapred.ShuffleHandler</value>
+				  	</property>
+				  	<property>
+				    	<name>yarn.resourcemanager.hostname</name>
+				    	<value>namenode_public_dns</value>
+				  	</property>
+				</configuration>
+
+		l. Create mapred-site.xml from its template
+		sudo cp $HADOOP_CONF_DIR/mapred-site.xml.template $HADOOP_CONF_DIR/mapred-site.xml
+		
+		m. sudo nano $HADOOP_CONF_DIR/mapred-site.xml
+				<configuration>
+					<property>
+				    	<name>mapreduce.jobtracker.address</name>
+				    	<value>namenode_public_dns:54311</value>
+				  	</property>
+					<property>
+				    	<name>mapreduce.framework.name</name>
+				    	<value>yarn</value>
+					</property>
+				</configuration>
+
+		n. Save output of echo $(hostname) from all nodes to a file.
+
+		### Namenode specific. ONLY for master node.
+		### hostname refers to hostname we got in step (n) above. Replace appropriately. It starts with ip-xxx-xxx-xxx-xxx
+		o. Add hosts:	sudo nano /etc/hosts
+			127.0.0.1 localhost
+			namenode_public_dns namenode_hostname
+			datanode1_public_dns datanode1_hostname
+			datanode2_public_dns datanode2_hostname
+			datanode3_public_dns datanode3_hostname
+
+			# (Dont remove any lines from the file)
+
+		p. sudo nano $HADOOP_CONF_DIR/hdfs-site.xml (keep it as it is)
+				<configuration>
+				  	<property>
+				    	<name>dfs.replication</name>
+				    	<value>3</value>
+				  	</property>
+				  	<property>
+				    	<name>dfs.namenode.name.dir</name>
+				    	<value>file:///usr/local/hadoop/hadoop_data/hdfs/namenode</value>
+				  	</property>
+				</configuration>
+
+		q. sudo mkdir -p $HADOOP_HOME/hadoop_data/hdfs/namenode
+		r. sudo touch $HADOOP_CONF_DIR/masters
+		s. sudo nano $HADOOP_CONF_DIR/masters
+				namenode_hostname
+
+		t. sudo nano $HADOOP_CONF_DIR/slaves
+				datanode1_hostname
+				datanode2_hostname
+				datanode3_hostname
+
+		u. sudo chown -R ubuntu $HADOOP_HOME
+
+
+		### Datanode specific configuration. ONLY for all slaves
+		### Perform following configuration in all slaves
+
+		v. sudo nano $HADOOP_CONF_DIR/hdfs-site.xml (Keep it as it is)
+				<configuration>
+				  	<property>
+				  		<name>dfs.replication</name>
+				  		<value>3</value>
+				 	</property>
+					<property>
+				 	   <name>dfs.datanode.data.dir</name>
+				 	   <value>file:///usr/local/hadoop/hadoop_data/hdfs/datanode</value>
+					</property>
+				</configuration>
+
+		w. sudo mkdir -p $HADOOP_HOME/hadoop_data/hdfs/datanode
+		x. sudo chown -R ubuntu $HADOOP_HOME
+
+
+C. Running Hadoop Cluster
+	### ON MASTER Node
+	1. hdfs namenode -format
+	2. $HADOOP_HOME/sbin/start-dfs.sh
+	3. Type 'yes' upon asking for authentication verification
+	4. Go to <master-node-public-dns>:50070 to see three live nodes
+
+D. Run Yarn and MapReduce JobHistory server
+	### On MASTER Node
+	1. $HADOOP_HOME/sbin/start-yarn.sh
+	2. $HADOOP_HOME/sbin/mr-jobhistory-daemon.sh start historyserver
+	3. jps

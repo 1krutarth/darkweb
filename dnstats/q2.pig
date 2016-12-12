@@ -1,4 +1,4 @@
-dnsdata = LOAD '/home/krutarth/Documents/study/darkweb/dnstats/data/sample.csv' USING PigStorage(',') as ( id:long, sitename:chararray, rid:chararray, type:chararray, siteup:chararray, httpcode:chararray, speed:chararray, tot_time:chararray, timestamp:chararray );
+dnsdata = LOAD 'data' USING PigStorage(',') as ( id:long, sitename:chararray, rid:chararray, type:chararray, siteup:chararray, httpcode:chararray, speed:chararray, tot_time:chararray, timestamp:chararray );
 
 d1 = FOREACH dnsdata GENERATE REPLACE(sitename,'"','') AS sitename, REPLACE(httpcode,'"','') AS httpcode, REPLACE(timestamp,'"','') AS timestamp;
 
