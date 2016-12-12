@@ -1,5 +1,9 @@
 ###Running the program on sample dataset (folder: `data`)
 1. `hadoop jar $HADOOP_HOME/share/hadoop/tools/lib/hadoop-streaming-2.7.3.jar -mapper 'python mapper.py' -reducer 'python reducer.py' -input 'silkroad2/data/*' -output 'silkroad2/output'`
+
+hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.7.3.jar -file /home/ubuntu/mapper.py -mapper "mapper.py" -file /home/ubuntu/reducer.py -reducer "reducer.py" -input /user/ubuntu/input/* -output /user/ubuntu/op1
+
+
 2. You will see the output in `output` directory under `silkroad2` directory.
 3. As reducer will add `\t\n` for entries that didn't have encoded image string, make sure that you remove them. Code snippet is below:
 
